@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "resume.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -75,7 +75,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -101,7 +101,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> "
         },
         {
@@ -419,7 +419,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2021-1400x1812.png",
+              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2022-1400x1812.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -467,7 +467,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-t"
         },
@@ -670,7 +670,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -696,7 +696,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-5"
         },
@@ -803,7 +803,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -829,7 +829,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-9"
         },
@@ -1195,7 +1195,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -1221,7 +1221,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-c"
         },
@@ -1668,7 +1668,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -1694,7 +1694,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-f"
         },
@@ -2017,7 +2017,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -2043,7 +2043,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-0"
         },
@@ -2207,7 +2207,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "showButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": true,
@@ -2233,7 +2233,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-w"
         },
