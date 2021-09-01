@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -59,6 +59,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -93,7 +101,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> "
         },
         {
@@ -104,7 +112,8 @@
             "H1": {
               "font-size": "48px",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
             },
             ".btn": {
               "font-size": "100px",
@@ -141,7 +150,8 @@
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -157,7 +167,8 @@
             },
             ".btn": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
             }
           },
           "_name": "msg-box4",
@@ -271,7 +282,17 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-4"
+          "_anchor": "slider-4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
         },
         {
           "_name": "contacts1",
@@ -280,7 +301,9 @@
               "color": "#ed100d"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -301,7 +324,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -319,7 +342,7 @@
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
           "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></li></ul>"
         },
         {
           "_name": "footer1",
@@ -360,9 +383,9 @@
           "_anchor": "header3-u",
           "_styles": {
             "H3": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "32px",
               "text-align": "center"
             }
           }
@@ -420,13 +443,26 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
             }
           },
           "headerAlign": "left",
@@ -598,7 +634,14 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-v"
+          "_anchor": "features1-v",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -612,6 +655,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -645,7 +696,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-5"
         },
@@ -656,7 +707,9 @@
               "color": "#ed100d"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -676,7 +729,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -694,7 +747,7 @@
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
           "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-6"
         },
         {
@@ -735,6 +788,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -768,7 +829,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-9"
         },
@@ -821,7 +882,10 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "36px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -831,7 +895,9 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -982,7 +1048,7 @@
               "size": 0
             }
           },
-          "title4": "Profiling and Optimization",
+          "title4": "Profiling &amp; Optimization",
           "caption4": "Making sure that we bring you the best experience of our locations, assets, and content on every platform that AC Valhalla shipped on. This includes profiling on different consoles and ensuring that every bottleneck and performance issue gets resolved before the game ships.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
@@ -1033,7 +1099,9 @@
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center",
+              "font-size": "23px"
             },
             "P": {
               "font-family": "'Oxygen', sans-serif",
@@ -1048,7 +1116,9 @@
               "color": "#ed100d"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -1068,7 +1138,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1086,7 +1156,7 @@
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
           "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-a"
         }
       ]
@@ -1110,6 +1180,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -1143,7 +1221,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-c"
         },
@@ -1354,7 +1432,7 @@
               "size": 0
             }
           },
-          "title4": "Pipelines and Workflows",
+          "title4": "Pipelines &amp; Workflows",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -1401,7 +1479,14 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-o"
+          "_anchor": "features1-o",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "20px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
         },
         {
           "_name": "contacts1",
@@ -1410,7 +1495,9 @@
               "color": "#ed100d"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -1430,7 +1517,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1448,7 +1535,7 @@
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
           "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-d"
         }
       ]
@@ -1488,19 +1575,38 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-11"
+          "_anchor": "header1-11",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
             ".mbr-article": {
               "color": "#efefef"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
+            },
+            ".mbr-article P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1547,6 +1653,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -1580,7 +1694,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-f"
         },
@@ -1591,7 +1705,9 @@
               "color": "#ed100d"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -1611,7 +1727,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1629,7 +1745,7 @@
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
           "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-g"
         },
         {
@@ -1659,11 +1775,82 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#306844",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/profile-1-648x648.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Nice to meet you!",
+          "text": "<p>Good thing you were able to were able to pass by my site. I'll share more about myself below</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1b"
+        },
+        {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "46px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -1673,7 +1860,9 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1698,8 +1887,8 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "About Me",
-          "text": "<p>Hi I'm John Alson H. Entuna.  I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.\n</p><p>I love to make games especially when games have wonderful meanings that affect a person.  I am a programmer and as well as a 3D Artist.  I'm a programmer by heart but I also love to do 3D art especially animation.  I can do 2D Art but I prefer 3D rather than 2D because I want to visually see things in a 3 Dimensional perspective.  I'm also a web developer and I have been developing websites since 2nd year high school.</p><p>Not only do I love to program and do 3D things but also I love to play games.  I'm a third person perspective kind of guy wherein I love third person games since I love to look at my character everytime I play that game.  Action and Story based games are my favorite!</p><p><br></p><p>Here are the top 10 of my favorite games of all time</p><p>1. Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Counter Strike Global Offensive\n</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
+          "title": "More about myself",
+          "text": "<p>Hi I'm John Alson H. Entuna.  I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.</p><p>Yes! I was born and raised in a province in Visayas. I grew up in a city that is filled with a lot of smiles and colorful masks. People say we have a sweet voice and we tend to be happy a lot even if we are having tough times.</p><p>\n</p><p>I love to make games especially when games have wonderful meanings that affect a person.  I am a programmer and as well as a 3D Artist.  I'm a programmer by heart but I also love to do 3D art especially animation.  I can do 2D Art but I prefer 3D rather than 2D because I want to visually see things in a 3 Dimensional perspective.  I'm also a web developer and I have been developing websites since 2nd year high school.</p><p>Not only do I love to program and do 3D things but also I love to play games.  I'm a third person perspective kind of guy wherein I love third person games since I love to look at my character every time I play that game.  Action and Story based games are my favorite!</p><p><br></p><p>Here are the top 10 of my favorite games of all time</p><p>1. Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Counter Strike Global Offensive\n</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1713,7 +1902,10 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -1723,7 +1915,9 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1748,8 +1942,8 @@
             "overlayColor": "#28613a",
             "overlayOpacity": "0.3"
           },
-          "title": "Game Development",
-          "text": "<p>Developing games has been my dream since I was able to see my love for Programming and 3D Art. I really love to code and do 3D art and even though people say that it's hard to do both, I really don't mind it. As long as I'm driven by my passion, there's no stopping me from doing what I love to do. Passion to learn and do stuff is the key to achieving something you will someday be proud of.\n</p><p>I spend most of the time learning new techniques that will further enhance my skills as a game developer and never stop learning. Oh yes! I play games. PEOPLE WHO HAVE BAD WORK ETHICS.\n</p><p><b>Roles Played in Game Development Production:\n</b></p><p>1. Gameplay Programmer (Back and Front End)\n</p><p>2. Engine Programmer\n</p><p>3. Architecture Programmer\n</p><p>4. 3D Artist (Character)\n</p><p>5. Rigging, Skinning, and Animation Artist\n</p><p>6. Technical Artist (Art Tools, Shader Creation, Lighting, Optimization)\n</p><p>7. Project Lead\n</p><p>8. Co-Producer\n</p><p>9. Lighting Engineer\n</p><p>10. Environment Artist\n</p><p>11. Cinematic Engineer/Director</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "title": "My Journey in Game Development",
+          "text": "<p>Developing games has been my dream since I was able to see my love for Programming and 3D Art. </p><p>I really love to code and do 3D art and even though people say that it's hard to do both, I really don't mind it. As long as I'm driven by my passion, there's no stopping me from doing what I love to do. Passion to learn and do stuff is the key to achieving something you will someday be proud of.\n</p><p>I spend most of the time learning new techniques that will further enhance my skills as a game developer and never stop learning.</p><p><br></p><p> </p><p>Oh yes! I play games.&nbsp;</p><p><br></p><p><b>Roles Played in Game Development Production:\n</b></p><p>1. Gameplay Programmer (Back and Front End)\n</p><p>2. Engine Programmer\n</p><p>3. Architecture Programmer\n</p><p>4. 3D Artist (Character)\n</p><p>5. Rigging, Skinning, and Animation Artist\n</p><p>6. Technical Artist (Art Tools, Shader Creation, Lighting, Optimization)\n</p><p>7. Project Lead\n</p><p>8. Co-Producer\n</p><p>9. Lighting Engineer\n</p><p>10. Environment Artist\n</p><p>11. Cinematic Engineer/Director</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1763,12 +1957,23 @@
             "showMeta": true
           },
           "title": "More about myself",
-          "meta": "to save up some space here in this page, I'll link more information about me in my old website blog.",
+          "meta": "to save up some space here in this page, I'll link more information about me in my old website blog. It's a little bit of an introduction about myself that I wrote a few years back on my blog.......",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-s"
+          "_anchor": "header3-s",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/p/about-me.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read More</a> ",
@@ -1776,7 +1981,14 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-r"
+          "_anchor": "buttons1-r",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -1790,6 +2002,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -1823,7 +2043,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-0"
         },
@@ -1834,6 +2054,11 @@
               "color": "#ed100d"
             },
             "P": {
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "DIV": {
               "color": "#ffffff"
             }
           },
@@ -1851,7 +2076,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1869,7 +2094,7 @@
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
           "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-1"
         },
         {
@@ -1902,13 +2127,25 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "36px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
             ".mbr-article": {
               "color": "#efefef"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
+            },
+            ".mbr-article P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1955,6 +2192,14 @@
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "ext.menu",
@@ -1988,7 +2233,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-w"
         },
@@ -1999,7 +2244,9 @@
               "color": "#ed100d"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -2019,7 +2266,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2037,7 +2284,7 @@
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
           "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-x"
         },
         {
