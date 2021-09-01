@@ -120,6 +120,17 @@
 #ext_menu-c .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#content5-p .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-p .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-p .mbr-article {
+  color: #fff;
+}
 #contacts1-d STRONG {
   color: #ed100d;
 }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "main.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 26,
+    "uniqCompNum": 47,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -77,7 +77,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/profile-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -260,7 +260,7 @@
                 "title": "Other Games",
                 "contentAlign": "center",
                 "text": "Other games and projects that I've worked on during my university days and spare time",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Show more</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"others.html\" data-toolbar=\"-mbrBtnMove\">Show more</a> ",
                 "overlay": true,
                 "alt": ""
               }
@@ -317,9 +317,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><strong><br></strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACTS</strong><strong><br></strong><br>\nEmail: johnalson_entuna@outlook.com<br>\nPhone: (+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\">GitHub</a></li><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>"
+          "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
+          "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>"
         },
         {
           "_name": "footer1",
@@ -344,22 +344,45 @@
       "settings": {
         "meta_descr": "Alson Entuna - Resume",
         "title": "Resume",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showMeta": false
+          },
+          "title": "A PASSIONATE DEVELOPER WITH A BIG HEART FOR PROGRAMMING AND ART.",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg5.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#182c25",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -368,26 +391,214 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Resume",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>  ",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2021-1400x1812.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Alson Entuna - Resume",
+          "text": "<p>Download my resume using the link below</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-8",
           "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            ".mbr-header__text": {
+              "color": "#ffffff"
             },
-            "H1": {
-              "text-align": "left",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
             }
-          }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-t"
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/binary-code-1-512x512.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Programming",
+          "caption1": "I started as a gameplay programmer using Unreal Engine 4 in C++. Then I found my path through Tech Art that opened my career to different languages such as C#, XAML, WPF, Maxscript. <br><br>I usually adapt to whatever the production needs as best as I can to ensure that I can deliver whatever the project needs.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/joystick-512x512.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Game Engines",
+          "caption2": "Working with different engines since I started in the field of Game Development. <br><br>These include UnrealEngine4, Unity, Construct, GameMaker, Cocos2dx, and ofcourse our own proprietary game engine Anvil.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/paint%20brush-02-wf-512x512.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "DCC",
+          "caption3": "As a Technical Artist, I learned to work with different digital content creation tools together with the help of our team of artists of course!&nbsp;<br><br>3ds Max, Maya, Substance Painter, Substance Designer, Photoshop, and more...",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/debug3-512x512.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Others",
+          "caption4": "Not only do I learn about tools but I also learned a lot of things along the way.&nbsp;<br><br>Project Management softwares like Jira and Asana.&nbsp;<br><br>Writing my own documentation using Confluence.<br><br>An ofcourse learning a lot of production centric tools like Perforce, Git, and many other techniques used in Game Development",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-v"
         },
         {
           "_inherit": "menu",
@@ -418,7 +629,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/profile-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -481,9 +692,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><strong><br></strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACTS</strong><strong><br></strong><br>\nEmail: johnalson_entuna@outlook.com<br>\nPhone: (+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\">GitHub</a></li><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
+          "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-6"
         },
         {
@@ -509,7 +720,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Assassin's Creed Valhalla",
         "title": "AssassinsCreedValhalla",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -541,7 +752,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/profile-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -606,13 +817,63 @@
           "_anchor": "video1-k"
         },
         {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/acv-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Assassin's Creed Valhalla",
+          "text": "<p>I worked on different aspects of the game from Props, Large Architecture Assets, Weapons, Procedural Objects and made sure that everything is within the technical guidelines of the engine.&nbsp;</p><p>I also developed tools and workflows that were used in different aspects of the production. Doing repetitive tasks, creating new data structures, and automating validations. Helped in improving the overall engine (Anvil) with different tools that were later on included in different projects in the company.</p><p>Overall technical owner of the Weapons Pipeline of the whole game. Yes, that's right! every weapon you see for the character and NPCs where handled and implemented by me together with the lead studio in Montreal.</p><p>Was very fortunate enough to work on real locations for Northumbria which quite did give a lot of challenges in terms of technical fidelity. If you see some of those neat looking rivers, fields, streams, and boulders, yeah I worked mainly on those plus having to do a lot of optimizations along the way</p><p>Lastly, did a lot of optimizations in our locations to make sure that everything is running on smooth framerate on Xbox and PS4 consoles using their own SDKs. Identifying bottlenecks in rendering and performance.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-m"
+        },
+        {
           "_params": {
             "showHeader": false,
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "columns": 4,
@@ -635,9 +896,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -650,14 +914,17 @@
             }
           },
           "title1": "Objects",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Provided technical support and pipelines to ensure that every asset we produce are in full visual quality that meets the engine's specifications. Ensuring we get most out of the engine's capability and provided techniques to the team of artists both local and collaboration studios.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/globe-wf-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -670,14 +937,17 @@
             }
           },
           "title2": "World Locations",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "In-charge of the overall technical topic for the whole region of Northumbria. Working on objects, level design, procedural content, NPCs, and&nbsp; many other. Making sure that our locations are bug-free and meet the requirements of tech for these different types of locations.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/tools-03-wf-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -690,14 +960,17 @@
             }
           },
           "title3": "Tools",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Along the way in production, I manage to work on a lot of tools from our DCC down to our own engine tools to even standalone applications using C#, WPF/XAML, Maxscript, WinForms, Javascript, C++ to help the team on their day-to-day tasks. Problem solving everyday issues and providing the best solution as possible in a short amount of time",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/gear-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -710,8 +983,8 @@
             }
           },
           "title4": "Profiling and Optimization",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "caption4": "Making sure that we bring you the best experience of our locations, assets, and content on every platform that AC Valhalla shipped on. This includes profiling on different consoles and ensuring that every bottleneck and performance issue gets resolved before the game ships.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -769,53 +1042,6 @@
           }
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "EASY TO USE!",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-m"
-        },
-        {
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
@@ -858,9 +1084,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><strong><br></strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACTS</strong><strong><br></strong><br>\nEmail: johnalson_entuna@outlook.com<br>\nPhone: (+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\">GitHub</a></li><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
+          "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-a"
         }
       ]
@@ -869,7 +1095,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Skull & Bones",
         "title": "Skull&amp;Bones",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -901,7 +1127,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/profile-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -966,13 +1192,60 @@
           "_anchor": "video1-n"
         },
         {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/skullandbones-2-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Skull &amp; Bones",
+          "text": "<p>Developing tools and ensuring effective &amp; efficient workflow for the art \nproduction pipeline\nSpearheading the tech/tools team for tools of the art production \npipeline and workflow.</p><p>Handling Assets, Character, and Rigging teams providing \ntechnical support\nSolving problems and providing solutions to various teams \nin the production\n</p><p>Collaboration meetings and alignments with the lead studio\n</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-p"
+        },
+        {
           "_params": {
             "showHeader": false,
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
+            "showCaptions": false,
+            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "columns": 4,
@@ -995,9 +1268,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1011,13 +1287,16 @@
           },
           "title1": "Objects",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/tools-03-wf-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1035,9 +1314,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/gear-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1055,9 +1337,12 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "images/unlimited-websites.png",
+              "src": "@PROJECT_PATH@/assets/images/workflow-02-wf-512x512.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1119,53 +1404,6 @@
           "_anchor": "features1-o"
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "EASY TO USE!",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-p"
-        },
-        {
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
@@ -1208,9 +1446,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><strong><br></strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACTS</strong><strong><br></strong><br>\nEmail: johnalson_entuna@outlook.com<br>\nPhone: (+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\">GitHub</a></li><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
+          "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-d"
         }
       ]
@@ -1219,9 +1457,84 @@
       "settings": {
         "meta_descr": "Alson Entuna - Others",
         "title": "Others",
-        "order": 1
+        "order": 2
       },
       "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/%5Bintothelight%5Dtrailer-3-1365x768.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Games and Other Projects",
+          "text": "The link below will show you the things I've worked on.&nbsp; You'll be redirected to my old website. It's a compilation of all the things I've learned throughout the years in the field of Game Development.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://alsonentuna.blogspot.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Show more</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-11"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#efefef"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28613a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Development Portfolio",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Check out my other works in different fields of game development. The links below will redirect you to my old site which contains a log of the stuff I've been working on since I got into game development.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/Programming%20Portfoltio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Programming</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/GameDesign\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Design</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/Art%20Portfolio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Art</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-18"
+        },
         {
           "_inherit": "menu",
           "_styles": {
@@ -1251,7 +1564,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/profile-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1314,9 +1627,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><strong><br></strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACTS</strong><strong><br></strong><br>\nEmail: johnalson_entuna@outlook.com<br>\nPhone: (+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\">GitHub</a></li><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
+          "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-g"
         },
         {
@@ -1342,7 +1655,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - About Me",
         "title": "About Me",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1358,6 +1671,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1369,7 +1685,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ac-valhalla-1440x900.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/%5Bintothelight%5D%20trailer-1-1600x900.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1379,18 +1695,18 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#28613a",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
           },
-          "title": "EASY TO USE!",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "About Me",
+          "text": "<p>Hi I'm John Alson H. Entuna.  I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.\n</p><p>I love to make games especially when games have wonderful meanings that affect a person.  I am a programmer and as well as a 3D Artist.  I'm a programmer by heart but I also love to do 3D art especially animation.  I can do 2D Art but I prefer 3D rather than 2D because I want to visually see things in a 3 Dimensional perspective.  I'm also a web developer and I have been developing websites since 2nd year high school.</p><p>Not only do I love to program and do 3D things but also I love to play games.  I'm a third person perspective kind of guy wherein I love third person games since I love to look at my character everytime I play that game.  Action and Story based games are my favorite!</p><p><br></p><p>Here are the top 10 of my favorite games of all time</p><p>1. Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Counter Strike Global Offensive\n</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-i"
+          "_anchor": "content5-j"
         },
         {
           "_inherit": "msg-box3",
@@ -1405,6 +1721,9 @@
             },
             ".mbr-article": {
               "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1416,7 +1735,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/acv-aboutme-2000x1161.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1426,18 +1745,38 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayColor": "#28613a",
+            "overlayOpacity": "0.3"
           },
-          "title": "EASY TO USE!",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "Game Development",
+          "text": "<p>Developing games has been my dream since I was able to see my love for Programming and 3D Art. I really love to code and do 3D art and even though people say that it's hard to do both, I really don't mind it. As long as I'm driven by my passion, there's no stopping me from doing what I love to do. Passion to learn and do stuff is the key to achieving something you will someday be proud of.\n</p><p>I spend most of the time learning new techniques that will further enhance my skills as a game developer and never stop learning. Oh yes! I play games. PEOPLE WHO HAVE BAD WORK ETHICS.\n</p><p><b>Roles Played in Game Development Production:\n</b></p><p>1. Gameplay Programmer (Back and Front End)\n</p><p>2. Engine Programmer\n</p><p>3. Architecture Programmer\n</p><p>4. 3D Artist (Character)\n</p><p>5. Rigging, Skinning, and Animation Artist\n</p><p>6. Technical Artist (Art Tools, Shader Creation, Lighting, Optimization)\n</p><p>7. Project Lead\n</p><p>8. Co-Producer\n</p><p>9. Lighting Engineer\n</p><p>10. Environment Artist\n</p><p>11. Cinematic Engineer/Director</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-j"
+          "_anchor": "content5-i"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "More about myself",
+          "meta": "to save up some space here in this page, I'll link more information about me in my old website blog.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/p/about-me.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read More</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-r"
         },
         {
           "_inherit": "menu",
@@ -1468,7 +1807,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/profile-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1528,9 +1867,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><strong><br></strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACTS</strong><strong><br></strong><br>\nEmail: johnalson_entuna@outlook.com<br>\nPhone: (+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\">GitHub</a></li><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
+          "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
           "_anchor": "contacts1-1"
         },
         {
@@ -1549,6 +1888,174 @@
           },
           "text": "2021 Alson Entuna",
           "_anchor": "footer1-2"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": "Alson Entuna - Contact",
+        "title": "Contact",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1e453e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Let's get in touch!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>You can contact me via these different platforms below. I'll respond as fast as I can. Please don't hesitate to reach out.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://wa.me/639154883673\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-10"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#0c2b15"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": ".mbr-section__container {\n text-align: center;\n width: 100%;\n}\n\n.btn {\n  \n    background: none;/*this for transparent button*/\n    border: 1px solid #f7da64;/* this is for button border*/\n    color: #f7da64;/* this is text colour*/\n}\na:hover {\nbackground-color: #f7da64;/* button hover colour*/\ncolor: #ffffff;/* text hover colour*/\n}\n\n.text-white \n\n{\n\ncolor: #FFFF00;/*change colour to your choice*/\n\n}\n.btn  {\nborder-radius: 12px;\n  }  \n",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#0c2b15",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-8\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
+          "_anchor": "ext_menu-w"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ed100d"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0c2b15",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/profile-265x265.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><strong><br></strong>Santa Rosa, Laguna<br>Philippines<br>4026",
+          "text2": "<strong>CONTACT</strong><strong><br></strong>&nbsp;johnalson_entuna@outlook.com<br>(+63) 9154883673<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-primary\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-primary\" target=\"_blank\">LinkedIn</a></li></ul>",
+          "_anchor": "contacts1-x"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0c2b15",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "2021 Alson Entuna",
+          "_anchor": "footer1-y"
         }
       ]
     }
