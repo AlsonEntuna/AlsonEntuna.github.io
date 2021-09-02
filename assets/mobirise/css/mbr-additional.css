@@ -1,4 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+
+
+
+
 
 
 
@@ -12,9 +19,16 @@
 #ext_menu-9 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-9 .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-9 .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+}
 #header4-0 H1 {
   font-size: 48px;
   font-family: 'Oxygen', sans-serif;
+  text-align: center;
 }
 #header4-0 .btn {
   font-size: 100px;
@@ -22,6 +36,7 @@
 }
 #msg-box4-1 .mbr-header__text {
   color: #ffffff;
+  font-size: 36px;
 }
 #msg-box4-1 .mbr-header__subtext {
   color: #ffffff;
@@ -36,25 +51,70 @@
 }
 #msg-box4-1 .btn {
   font-family: 'Oxygen', sans-serif;
+  font-size: 24px;
+}
+#slider-4 H1 {
+  font-family: 'Oxygen', sans-serif;
+}
+#slider-4 P {
+  font-family: 'Oxygen', sans-serif;
 }
 #contacts1-8 STRONG {
-  color: #ed100d;
+  color: #ffffff;
 }
 #contacts1-8 P {
-  color: #ffffff;
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
 }
 #contacts1-8 DIV {
   color: #ffffff;
 }
 
 
-#header1-8 P {
+
+
+
+
+
+
+
+
+
+
+#header3-u H3 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 32px;
+  text-align: center;
+}
+#msg-box4-t .mbr-header__text {
+  color: #ffffff;
   text-align: left;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#msg-box4-t .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-t .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-t .mbr-article P {
   font-family: 'Oxygen', sans-serif;
 }
-#header1-8 H1 {
-  text-align: left;
+#msg-box4-t .btn {
   font-family: 'Oxygen', sans-serif;
+  font-size: 24px;
+}
+#features1-v P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  color: #ffffff;
+}
+#features1-v .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
 }
 #ext_menu-5 .mbr-brand__name {
   font-size: 16px;
@@ -65,15 +125,41 @@
 #ext_menu-5 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-5 .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-5 .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-1d H3 {
+  font-family: 'Oxygen', sans-serif;
+}
+#content4-1c .mbr-section__col .mbr-header__text {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+}
+#content4-1c P {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
 #contacts1-6 STRONG {
-  color: #ed100d;
+  color: #ffffff;
 }
 #contacts1-6 P {
-  color: #ffffff;
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
 }
 #contacts1-6 DIV {
   color: #ffffff;
 }
+
+
+
+
+
 
 
 #ext_menu-9 .mbr-brand__name {
@@ -85,15 +171,17 @@
 #ext_menu-9 .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#features1-l .mbr-section__col .mbr-header__text {
+#ext_menu-9 .mbr-navbar__items a {
   font-family: 'Oxygen', sans-serif;
 }
-#features1-l P {
+#ext_menu-9 .mbr-brand__name a {
   font-family: 'Oxygen', sans-serif;
 }
 #content5-m .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
+  font-size: 36px;
+  font-family: 'Oxygen', sans-serif;
 }
 #content5-m .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -102,15 +190,33 @@
 #content5-m .mbr-article {
   color: #fff;
 }
+#content5-m .mbr-article P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
+#features1-l .mbr-section__col .mbr-header__text {
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+  font-size: 23px;
+}
+#features1-l P {
+  font-family: 'Oxygen', sans-serif;
+}
 #contacts1-a STRONG {
-  color: #ed100d;
+  color: #ffffff;
 }
 #contacts1-a P {
-  color: #ffffff;
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
 }
 #contacts1-a DIV {
   color: #ffffff;
 }
+
+
+
+
 #ext_menu-c .mbr-brand__name {
   font-size: 16px;
 }
@@ -119,6 +225,12 @@
 }
 #ext_menu-c .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-c .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-c .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
 }
 #content5-p .mbr-header .mbr-header__text {
   text-align: center;
@@ -131,14 +243,49 @@
 #content5-p .mbr-article {
   color: #fff;
 }
+#features1-o .mbr-section__col .mbr-header__text {
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+}
 #contacts1-d STRONG {
-  color: #ed100d;
+  color: #ffffff;
 }
 #contacts1-d P {
   color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
 }
 #contacts1-d DIV {
   color: #ffffff;
+}
+
+
+
+
+
+
+
+#header1-11 .btn {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 18px;
+}
+#msg-box3-18 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#msg-box3-18 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-18 .mbr-article {
+  color: #efefef;
+}
+#msg-box3-18 .btn {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 24px;
+}
+#msg-box3-18 .mbr-article P {
+  font-family: 'Oxygen', sans-serif;
 }
 #ext_menu-f .mbr-brand__name {
   font-size: 16px;
@@ -149,18 +296,64 @@
 #ext_menu-f .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-f .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-f .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+}
 #contacts1-g STRONG {
-  color: #ed100d;
+  color: #ffffff;
 }
 #contacts1-g P {
-  color: #ffffff;
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
 }
 #contacts1-g DIV {
   color: #ffffff;
 }
+
+
+
+
+
+
+
+
+
+
+#msg-box4-1b .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1b .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1b .mbr-article {
+  color: #ffffff;
+}
+#content5-j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 46px;
+  font-family: 'Oxygen', sans-serif;
+}
+#content5-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-article {
+  color: #fff;
+}
+#content5-j .mbr-article P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
 #content5-i .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
 }
 #content5-i .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -169,16 +362,20 @@
 #content5-i .mbr-article {
   color: #fff;
 }
-#content5-j .mbr-header .mbr-header__text {
+#content5-i .mbr-article P {
   text-align: center;
-  color: #fff;
+  font-family: 'Oxygen', sans-serif;
 }
-#content5-j .mbr-header .mbr-header__subtext {
+#header3-s H3 {
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-s P {
   text-align: center;
-  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
-#content5-j .mbr-article {
-  color: #fff;
+#buttons1-r .btn {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 24px;
 }
 #ext_menu-0 .mbr-brand__name {
   font-size: 16px;
@@ -189,9 +386,71 @@
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-0 .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-0 .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+}
 #contacts1-1 STRONG {
-  color: #ed100d;
+  color: #ffffff;
 }
 #contacts1-1 P {
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#contacts1-1 DIV {
+  color: #ffffff;
+}
+
+
+
+
+
+
+#msg-box3-10 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#msg-box3-10 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-10 .mbr-article {
+  color: #efefef;
+}
+#msg-box3-10 .btn {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 24px;
+}
+#msg-box3-10 .mbr-article P {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-w .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-w.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0c2b15;
+}
+#ext_menu-w .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-w .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-w .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-x STRONG {
+  color: #ffffff;
+}
+#contacts1-x P {
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#contacts1-x DIV {
   color: #ffffff;
 }

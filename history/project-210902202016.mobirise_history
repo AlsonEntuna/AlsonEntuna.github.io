@@ -325,7 +325,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -406,7 +406,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#28613a",
+            "bgColor": "#182c25",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -487,7 +487,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#1e453e",
+            "bgColor": "#28613a",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -520,7 +520,7 @@
             }
           },
           "title1": "Programming",
-          "caption1": "I started as a gameplay programmer using Unreal Engine 4 in C++. Then I found my path through Tech Art that opened my career to different languages such as C#, XAML, WPF, Maxscript, Python. <br><br>I usually adapt to whatever the production needs as best as I can to ensure that I can deliver whatever the project needs.",
+          "caption1": "I started as a gameplay programmer using Unreal Engine 4 in C++. Then I found my path through Tech Art that opened my career to different languages such as C#, XAML, WPF, Maxscript. <br><br>I usually adapt to whatever the production needs as best as I can to ensure that I can deliver whatever the project needs.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -742,7 +742,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#28613a",
+            "bgColor": "#1e453e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -774,8 +774,8 @@
               "size": 0
             }
           },
-          "title1": "Sebastien Larrue",
-          "caption1": "Graphics Technical Director<br><br>Ubisoft Singapore",
+          "title1": "JV Tensuan",
+          "caption1": "Lead Programmer<br><br><br>Ubisoft Philippines",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -794,7 +794,7 @@
               "size": 0
             }
           },
-          "title2": "<a href=\"mailto:zedikiah@gmail.com\" class=\"text-info\">Mark Gesmundo</a>",
+          "title2": "<a href=\"mailto:zedikiah@gmail.com\" class=\"text-black\">Mark Gesmundo</a>",
           "caption2": "Lead Artist<br><br><br>Ubisoft Philippines",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -814,8 +814,8 @@
               "size": 0
             }
           },
-          "title3": "Hui Yee Tham",
-          "caption3": "Technical Artist<br><br><br>Ubisoft Singapore",
+          "title3": "<a href=\"mailto:jrprosaria@gmail.com\" class=\"text-primary\" style=\"\">John Rosario</a>",
+          "caption3": "Programmer/Technical Level Designer<br><br>Ubisoft Philippines",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -834,7 +834,7 @@
               "size": 0
             }
           },
-          "title4": "<a href=\"mailto:thinkactbe666@gmail.com\" class=\"text-info\">Noel Llorca</a>",
+          "title4": "<a href=\"mailto:thinkactbe666@gmail.com\" class=\"text-primary\">Noel Llorca</a>",
           "caption4": "Technical Artist<br><br><br>Ubisoft Philippines",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
@@ -854,8 +854,8 @@
               "size": 0
             }
           },
-          "title5": "Muhammad Helmy",
-          "caption5": "Principal Engine Programmer<br><br>Compulsion Games<br>",
+          "title5": "<a href=\"mailto:david.ramos@benilde.edu.ph\" class=\"text-primary\">David Ramos</a>",
+          "caption5": "Thesis Adviser<br><br>De La Salle - College of Saint Benilde<br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -925,7 +925,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1925,7 +1925,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2466,7 +2466,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-256x256.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
