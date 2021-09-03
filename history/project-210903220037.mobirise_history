@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "resume.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -440,7 +440,7 @@
             }
           },
           "title": "Alson Entuna - Resume",
-          "text": "<p>Download my resume using the link below...</p>",
+          "text": "<p>Download my resume using the link below</p>",
           "_tags": [
             "Theme"
           ],
@@ -741,7 +741,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "6",
+            "columns": 5,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -819,7 +819,7 @@
             }
           },
           "title3": "<a href=\"mailto:huiyee_t@hotmail.com\" class=\"text-info\">Hui Yee Tham</a>",
-          "caption3": "<br>Technical Artist<br><br><br>Ubisoft Singapore",
+          "caption3": "Technical Artist<br><br><br>Ubisoft Singapore",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -839,7 +839,7 @@
             }
           },
           "title4": "<a href=\"mailto:thinkactbe666@gmail.com\" class=\"text-info\">Noel Llorca</a>",
-          "caption4": "<br>Technical Artist<br><br><br>Ubisoft Philippines",
+          "caption4": "Technical Artist<br><br><br>Ubisoft Philippines",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -878,8 +878,8 @@
               "size": 0
             }
           },
-          "title6": "<a href=\"mailto:jrprosaria@gmail.com\" class=\"text-info\">John Rosaria</a>",
-          "caption6": "<br>Technical Level Designer<br><br>Ubisoft Philippines",
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-1c",
