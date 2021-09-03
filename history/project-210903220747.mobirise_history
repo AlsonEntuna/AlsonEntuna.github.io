@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "main.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -225,7 +225,7 @@
           "headerAlign": "left",
           "title": "Alson Entuna",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Hi! I'm Alson. Nice to meet you!&nbsp;</p><p>I'm a Gameplay Programmer turned into a Technical Artist after realizing my love for tech in art. </p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art.</p><p>I still code and learn new technologies on my spare time like game engines, graphics and how they work.&nbsp;</p>",
+          "text": "<p>Hi! I'm Alson. Nice to meet you!&nbsp;</p><p>I'm a Gameplay Programmer turned into a Technical Artist after realizing my love for tech in art. </p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"aboutme.html\" data-toolbar=\"-mbrBtnMove\">About Me</a>"
         },
         {
