@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "games-acvalhalla.html",
+    "currentPage": "resume.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 51,
+    "uniqCompNum": 50,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -62,8 +62,7 @@
             },
             ".mbr-navbar__items a": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-brand__name a": {
               "font-family": "'Oxygen', sans-serif",
@@ -224,7 +223,7 @@
           "headerAlign": "left",
           "title": "Alson Entuna",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Hi! I'm Alson. Nice to meet you!&nbsp;</p><p>I'm a Gameplay Programmer turned into a Technical Artist after realizing my love for tech in art. </p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art.</p>",
+          "text": "<p>Hi! I'm Alson. Nice to meet you!&nbsp;</p><p>I'm a Gameplay Programmer turned into a Technical Artist after realizing my love for tech in art. I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"aboutme.html\" data-toolbar=\"-mbrBtnMove\">About Me</a>"
         },
         {
@@ -667,8 +666,7 @@
             },
             ".mbr-navbar__items a": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-brand__name a": {
               "font-family": "'Oxygen', sans-serif",
@@ -989,8 +987,7 @@
             },
             ".mbr-navbar__items a": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-brand__name a": {
               "font-family": "'Oxygen', sans-serif",
@@ -1122,7 +1119,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Assassin's Creed Valhalla",
-          "text": "<p>I worked on different aspects of the game from Props, Large Architecture Assets, Weapons, Procedural Objects and made sure that everything is within the technical guidelines of the engine.&nbsp;</p><p>I also developed tools and workflows that were used in different aspects of the production. Doing repetitive tasks, creating new data structures, and automating validations. Helped in improving the overall engine (Anvil) with different tools that were later on included in different projects in the company.</p><p>Overall technical owner of the Weapons Pipeline of the whole game. Yes, that's right! every weapon you see for the character and NPCs where handled and implemented by me together with the lead studio in Montreal.</p><p>Was very fortunate enough to work on real locations for Northumbria which quite did give a lot of challenges in terms of technical fidelity. If you see some of those neat looking rivers, fields, streams, and boulders, yeah I worked mainly on those plus having to do a lot of optimizations along the way</p><p>Lastly, did a lot of optimizations in our locations to make sure that everything is running on smooth framerate on Xbox and PS4 consoles using their own SDKs. Identifying bottlenecks in rendering and performance.</p><p><br></p><p>Overall, it was one of the best experiences I had with my career. Having to be in the project since conception down to GOLD. I'd say we made a pretty big impact as a studio in this awesome installment of the Assassin's Creed Franchise.</p>",
+          "text": "<p>I worked on different aspects of the game from Props, Large Architecture Assets, Weapons, Procedural Objects and made sure that everything is within the technical guidelines of the engine.&nbsp;</p><p>I also developed tools and workflows that were used in different aspects of the production. Doing repetitive tasks, creating new data structures, and automating validations. Helped in improving the overall engine (Anvil) with different tools that were later on included in different projects in the company.</p><p>Overall technical owner of the Weapons Pipeline of the whole game. Yes, that's right! every weapon you see for the character and NPCs where handled and implemented by me together with the lead studio in Montreal.</p><p>Was very fortunate enough to work on real locations for Northumbria which quite did give a lot of challenges in terms of technical fidelity. If you see some of those neat looking rivers, fields, streams, and boulders, yeah I worked mainly on those plus having to do a lot of optimizations along the way</p><p>Lastly, did a lot of optimizations in our locations to make sure that everything is running on smooth framerate on Xbox and PS4 consoles using their own SDKs. Identifying bottlenecks in rendering and performance.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1178,8 +1175,8 @@
               "size": 0
             }
           },
-          "title1": "Meshes",
-          "caption1": "Provided technical support and pipelines to ensure that every asset we produce are in full visual quality that meets the engine's specifications. Ensuring we get most out of the engine's capability and provided techniques to the team of artists both local and collaboration studios.<br><br>Then of course wrote a lot of workflows and pipelines for most of these objects alongside with our Graphics TDs.",
+          "title1": "Objects",
+          "caption1": "Provided technical support and pipelines to ensure that every asset we produce are in full visual quality that meets the engine's specifications. Ensuring we get most out of the engine's capability and provided techniques to the team of artists both local and collaboration studios.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1202,7 +1199,7 @@
             }
           },
           "title2": "World Locations",
-          "caption2": "In-charge of the overall technical topic for the whole region of Northumbria. I also did some procedural work and water tech implementations in our region.<br><br>Working on objects, level design, procedural content, NPCs, and&nbsp; many other. Making sure that our locations are bug-free and meet the requirements of tech for these different types of locations.&nbsp;",
+          "caption2": "In-charge of the overall technical topic for the whole region of Northumbria. Working on objects, level design, procedural content, NPCs, and&nbsp; many other. Making sure that our locations are bug-free and meet the requirements of tech for these different types of locations.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1225,7 +1222,7 @@
             }
           },
           "title3": "Tools",
-          "caption3": "Along the way in production, I manage to work on a lot of tools from our DCC down to our own engine tools to even standalone applications using C#, WPF/XAML, Maxscript, WinForms, Javascript, C++ to help the team on their day-to-day tasks. Problem solving everyday issues and providing the best solution as possible in a short amount of time.<br><br>Some of my tools were also adapted by other projects in the company.",
+          "caption3": "Along the way in production, I manage to work on a lot of tools from our DCC down to our own engine tools to even standalone applications using C#, WPF/XAML, Maxscript, WinForms, Javascript, C++ to help the team on their day-to-day tasks. Problem solving everyday issues and providing the best solution as possible in a short amount of time",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1248,7 +1245,7 @@
             }
           },
           "title4": "Profiling &amp; Optimization",
-          "caption4": "Making sure that we bring you the best experience of our locations, assets, and content on every platform that AC Valhalla shipped on. This includes profiling on different consoles and ensuring that every bottleneck and performance issue gets resolved before the game ships.&nbsp;<br><br>Was able to maintain a smooth framerate for most of our locations in Northumbria for Xbox and PS4.",
+          "caption4": "Making sure that we bring you the best experience of our locations, assets, and content on every platform that AC Valhalla shipped on. This includes profiling on different consoles and ensuring that every bottleneck and performance issue gets resolved before the game ships.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1383,8 +1380,7 @@
             },
             ".mbr-navbar__items a": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-brand__name a": {
               "font-family": "'Oxygen', sans-serif",
@@ -1422,7 +1418,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\"><span class=\"mdi-action-accessibility mbr-iconfont mbr-iconfont-btn\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_anchor": "ext_menu-c"
         },
@@ -1508,7 +1504,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Skull &amp; Bones",
-          "text": "<p>Developing tools and ensuring effective &amp; efficient workflow for the art \nproduction pipeline\nSpearheading the tech/tools team for tools of the art production \npipeline and workflow.</p><p>Handling Assets, Character, and Rigging teams providing \ntechnical support\n</p><p>Solving problems and providing solutions to various teams \nin the production\n</p><p>Collaboration meetings and alignments with the lead studio\n</p>",
+          "text": "<p>Developing tools and ensuring effective &amp; efficient workflow for the art \nproduction pipeline\nSpearheading the tech/tools team for tools of the art production \npipeline and workflow.</p><p>Handling Assets, Character, and Rigging teams providing \ntechnical support\nSolving problems and providing solutions to various teams \nin the production\n</p><p>Collaboration meetings and alignments with the lead studio\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1564,7 +1560,7 @@
               "size": 0
             }
           },
-          "title1": "Meshes",
+          "title1": "Objects",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
@@ -1834,7 +1830,7 @@
           },
           "title": "Development Portfolio",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Check out my other works in different fields of game development. The links below will redirect you to my old site which contains a log of the stuff I've been working on since I got into game development.</p><p><br></p><p>Here you can find a lot&nbsp; of things and blogs I wrote years back about how I came up with solutions to some problems we encountered in development.</p>",
+          "text": "<p>Check out my other works in different fields of game development. The links below will redirect you to my old site which contains a log of the stuff I've been working on since I got into game development.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/Programming%20Portfoltio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Programming</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/GameDesign\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Design</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/Art%20Portfolio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Art</a>",
           "_tags": [
             "Theme"
@@ -1857,8 +1853,7 @@
             },
             ".mbr-navbar__items a": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-brand__name a": {
               "font-family": "'Oxygen', sans-serif",
@@ -2063,7 +2058,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
@@ -2090,8 +2085,8 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "Get to know me..",
-          "text": "<p>Hi I'm John Alson H. Entuna.  I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.</p><p>Yes! I was born and raised in a province in Visayas. I grew up in a city that is filled with a lot of smiles and colorful masks. People say we have a sweet voice and we tend to be happy a lot even if we are having tough times.</p><p>\n</p><p>I love to make games especially when games have wonderful meanings that affect a person.  I am a programmer and as well as a 3D Artist. </p><p> I'm a programmer by heart but I also love to do 3D art especially animation.  I can do 2D Art but I prefer 3D rather than 2D because I want to visually see things in a 3 Dimensional perspective. </p><p><br></p><p>Not only do I love to program and do 3D things but also I love to play games.  I'm a third-person perspective kind of guy wherein I love third person games since I love to look at my character every time I play that game.  Action and Story based games are my favorite!<br></p><p><br></p><p>Here are the top 10 of my favorite games of all time</p><p>1. Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Counter Strike Global Offensive\n</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
+          "title": "More about myself",
+          "text": "<p>Hi I'm John Alson H. Entuna.  I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.</p><p>Yes! I was born and raised in a province in Visayas. I grew up in a city that is filled with a lot of smiles and colorful masks. People say we have a sweet voice and we tend to be happy a lot even if we are having tough times.</p><p>\n</p><p>I love to make games especially when games have wonderful meanings that affect a person.  I am a programmer and as well as a 3D Artist.  I'm a programmer by heart but I also love to do 3D art especially animation.  I can do 2D Art but I prefer 3D rather than 2D because I want to visually see things in a 3 Dimensional perspective.  I'm also a web developer and I have been developing websites since 2nd year high school.</p><p>Not only do I love to program and do 3D things but also I love to play games.  I'm a third person perspective kind of guy wherein I love third person games since I love to look at my character every time I play that game.  Action and Story based games are my favorite!</p><p><br></p><p>Here are the top 10 of my favorite games of all time</p><p>1. Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Counter Strike Global Offensive\n</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2118,7 +2113,7 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
@@ -2146,7 +2141,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "My Journey in Game Development",
-          "text": "<p>Developing games has been my dream since I was able to see my love for Programming and 3D Art. </p><p>I really love to code and do 3D art and even though people say that it's hard to do both, I really don't mind it. </p><p>As long as I'm driven by my passion, there's no stopping me from doing what I love to do. </p><p>Passion to learn and do stuff is the key to achieving something you will someday be proud of.\n</p><p>I spend most of the time learning new techniques that will further enhance my skills as a game developer and never stop learning.</p><p><br></p><p> </p><p>Oh yes! I play games.&nbsp;</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>Developing games has been my dream since I was able to see my love for Programming and 3D Art. </p><p>I really love to code and do 3D art and even though people say that it's hard to do both, I really don't mind it. As long as I'm driven by my passion, there's no stopping me from doing what I love to do. Passion to learn and do stuff is the key to achieving something you will someday be proud of.\n</p><p>I spend most of the time learning new techniques that will further enhance my skills as a game developer and never stop learning.</p><p><br></p><p> </p><p>Oh yes! I play games.&nbsp;</p><p><br></p><p><b>Roles Played in Game Development Production:\n</b></p><p>1. Gameplay Programmer (Back and Front End)\n</p><p>2. Engine Programmer\n</p><p>3. Architecture Programmer\n</p><p>4. 3D Artist (Character)\n</p><p>5. Rigging, Skinning, and Animation Artist\n</p><p>6. Technical Artist (Art Tools, Shader Creation, Lighting, Optimization)\n</p><p>7. Project Lead\n</p><p>8. Co-Producer\n</p><p>9. Lighting Engineer\n</p><p>10. Environment Artist\n</p><p>11. Cinematic Engineer/Director</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2154,80 +2149,6 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-i"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#306844",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-673-1400x2007.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Making AAA Games",
-          "text": "<p>So I joined Ubisoft Philippines back in 2017 as a Junior Programmer then later on transitioned to a Technical Artist along the way because of my love for 3D in real-time rendering.</p><p><br></p><p>All throughout my experience here in Ubisoft I learned a lot of things. From producing pipelines and workflows for AAA Assets, to making tools for DCC and our very own engine, doing a lot of debugging and bug fixing for our engine. Improving existing systems to meet with the new innovations of the current production.&nbsp;</p><p><br></p><p>Oh hey, I also got to learn a lot of these deep optimization techniques for consoles that I never had a chance before during my university days. I learned a lot from my mentors from different studios in Singapore, Montreal, Quebec, Sofia, Newcastle, Leamington, Chengdu, and etc.</p><p><br></p><p>Probably so far, the greatest achievement that I have is to work with Assassin's Creed Valhalla handling different aspects of the game and not only that, I managed to handle one chunk of the game which was the Weapons Pipeline where we made everything from concept down to the weapon which Eivor was using.</p><p><br></p><p>So my story still continues and currently I own a big feature coming up on an Unannounced Project. It's a pretty big leap to what I was doing in the past projects... Stay tuned for more details really soon....</p><p><br></p><p>While your here, feel free to check out some of the AAA Games I was able to work on.</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"games-acvalhalla.html\" data-toolbar=\"-mbrBtnMove\">Assassin's Creed Valhalla</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Skull &amp; Bones</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-1e"
         },
         {
           "_params": {
@@ -2450,7 +2371,7 @@
           },
           "title": "Let's get in touch!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>You can contact me via these different platforms below. I'll respond as fast as I can. Please don't hesitate to reach out.</p><p>I usually check everything every single day so hit me up if you want to reach out.</p>",
+          "text": "<p>You can contact me via these different platforms below. I'll respond as fast as I can. Please don't hesitate to reach out.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://wa.me/639154883673\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
           "_tags": [
             "Theme"
@@ -2473,8 +2394,7 @@
             },
             ".mbr-navbar__items a": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-brand__name a": {
               "font-family": "'Oxygen', sans-serif",
