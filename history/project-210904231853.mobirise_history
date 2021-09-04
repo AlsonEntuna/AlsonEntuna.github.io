@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -2225,7 +2225,7 @@
             }
           },
           "title": "Nice to meet you!",
-          "text": "<p>Ok, so before we go deeper about me, I would like to say that I'm a dog lover that's why I'm putting my pet dog named \"Chippy Boi\" until I get some decent home page photo for my website.&nbsp;</p><p><br></p><p>Alright let's move on...</p><p><br></p><p>Good thing you were able to were able to pass by my site. I'll share more about myself below...</p>",
+          "text": "<p>Good thing you were able to were able to pass by my site. I'll share more about myself below...</p>",
           "_tags": [
             "Theme"
           ],
@@ -2904,12 +2904,12 @@
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-8106-2000x2051.jpg",
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://player.vimeo.com/video/224907401?autoplay=0&loop=0",
               "rawUrl": "https://vimeo.com/224907401",
