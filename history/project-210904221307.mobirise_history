@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "main.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -34,7 +34,7 @@
     "siteUrl": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "file:///D:/Documents/%5BFiles%5D%20Web/AlsonEntuna-Portfolio-Build"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "main.html": {
