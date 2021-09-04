@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "resume.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 69,
+    "uniqCompNum": 68,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -44,6 +44,26 @@
         "order": 5
       },
       "components": [
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "A PASSIONATE DEVELOPER WITH A BIG HEART FOR PROGRAMMING AND ART.",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "_styles": {
+            "H3": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "32px",
+              "text-align": "center"
+            }
+          }
+        },
         {
           "_inherit": "msg-box5",
           "_params": {
@@ -124,26 +144,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-t"
-        },
-        {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "A PASSIONATE DEVELOPER WITH A BIG HEART FOR PROGRAMMING AND ART.",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1w",
-          "_styles": {
-            "H3": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center",
-              "font-size": "30px"
-            }
-          }
         },
         {
           "_params": {
@@ -2857,7 +2857,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"http://alsonentuna.github.io\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> "
         },
         {
