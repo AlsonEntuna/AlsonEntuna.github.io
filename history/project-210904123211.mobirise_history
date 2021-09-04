@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "others.html",
+    "currentPage": "main.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -9,14 +9,14 @@
       "title": "AlsonEntuna-Portfolio",
       "styling": {},
       "additionalSetColors": [
-        "#9c9c9c",
         "#0c2b15",
         "#28613a",
         "#193b23",
         "#1e453e",
         "#2c4c3b",
         "#306844",
-        "#182c25"
+        "#182c25",
+        "#455b55"
       ]
     },
     "favicon": false,
@@ -144,7 +144,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Programmer &amp; Technical Artist",
+          "title": "Programmer and Technical Artist",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Alson Entuna</a>"
         },
@@ -327,7 +327,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -929,7 +929,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1171,7 +1171,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-1-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-512x512.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1194,7 +1194,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/globe-wf-1-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/globe-wf-512x512.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1217,7 +1217,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toolbox-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/tools-03-wf-512x512.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1240,7 +1240,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gear-1-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/gear-512x512.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1263,7 +1263,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sword-01-wf-1-512x512.png",
+              "src": "@PROJECT_PATH@/assets/images/sword-01-wf-512x512.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1816,7 +1816,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2247,7 +2247,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2332,7 +2332,7 @@
             ".btn": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px"
+              "font-size": "24px"
             },
             ".mbr-article P": {
               "font-family": "'Oxygen', sans-serif",
@@ -2460,7 +2460,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2887,7 +2887,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3080,7 +3080,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
