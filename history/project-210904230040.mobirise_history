@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 73,
+    "uniqCompNum": 72,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -2898,47 +2898,45 @@
         },
         {
           "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-size": "48px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "100px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_customCSS": "/*h1 {\n  font-size: 6.1vw;\n}*/\n\nh1, {\n    font-size: 50px;\n    font-size: 6.5vw;\n}\n\n\n\n.btn {\n  font-size: 6.1vw;\n}\n\n.btn {\n  \n    background: none;/*this for transparent button*/\n    border: 4px solid #f7da64;/* this is for button border*/\n    color: #f7da64;/* this is text colour*/\n}\na:hover {\nbackground-color: #f7da64;/* button hover colour*/\ncolor: #ffffff;/* text hover colour*/\n}\n",
+          "_anchor": "header4-0",
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "images/bg.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c4c3b",
+            "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://player.vimeo.com/video/224907401?autoplay=0&loop=0",
-              "rawUrl": "https://vimeo.com/224907401",
-              "width": 1280,
-              "height": 720
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Alson Entuna",
-          "text": "Programmer and Technical Artist",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-20",
-          "_styles": {
-            "H1": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "60px"
-            },
-            "P": {
-              "font-size": "30px"
-            }
-          }
+          "title": "Programmer &amp; Technical Artist",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Alson Entuna</a>"
         },
         {
           "_inherit": "msg-box5",
