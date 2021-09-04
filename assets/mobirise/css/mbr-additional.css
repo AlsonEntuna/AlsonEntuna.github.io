@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
@@ -13,11 +12,6 @@
 
 
 
-#header3-u H3 {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 32px;
-  text-align: center;
-}
 #msg-box4-t .mbr-header__text {
   color: #ffffff;
   text-align: left;
@@ -36,6 +30,11 @@
 #msg-box4-t .btn {
   font-family: 'Oxygen', sans-serif;
   font-size: 24px;
+}
+#header3-1w H3 {
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+  font-size: 30px;
 }
 #features1-v P {
   text-align: center;
