@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "resume.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -363,10 +363,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "",
+              "alt": "Mobirise",
               "link": "#top",
               "title": "",
               "linkInNewWindow": false
@@ -600,11 +600,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -613,11 +613,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2",
-              "active": true
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
@@ -690,10 +686,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "",
+              "alt": "Mobirise",
               "link": "#top",
               "title": "",
               "linkInNewWindow": false
@@ -1491,11 +1487,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1560,10 +1556,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "",
+              "alt": "Mobirise",
               "link": "#top",
               "title": "",
               "linkInNewWindow": false
@@ -1922,11 +1918,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2085,10 +2081,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "",
+              "alt": "Mobirise",
               "link": "#top",
               "title": "",
               "linkInNewWindow": false
@@ -2135,11 +2131,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2296,7 +2292,7 @@
             "overlayOpacity": 0.2
           },
           "title": "A little thing about me..",
-          "text": "<p>Hi I'm John Alson H. Entuna.  I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.</p><p>Yes! I was born and raised in a province in Visayas. I grew up in a city that is filled with a lot of smiles and colorful masks. People say we have a sweet voice and we tend to be happy a lot even if we are having tough times.</p><p>\n</p><p>I love to make games especially when games have wonderful meanings that affect a person.  I am a programmer and as well as a 3D Artist. </p><p> I'm a programmer by heart but I also love to do 3D art especially animation.  I can do 2D Art but I prefer 3D rather than 2D because I want to visually see things in a 3 Dimensional perspective. </p><p><br></p><p>Not only do I love to program and do 3D things but also I love to play games.  I'm a third-person perspective kind of guy wherein I love third person games since I love to look at my character every time I play that game.  Action and Story based games are my favorite!<br></p><p><br></p><p>Here are the top 10 of my favorite games of all time</p><p>1.&nbsp; Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Call of Duty Modern Warfare</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
+          "text": "<p>Hi I'm John Alson H. Entuna.  I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.</p><p>Yes! I was born and raised in a province in Visayas. I grew up in a city that is filled with a lot of smiles and colorful masks. People say we have a sweet voice and we tend to be happy a lot even if we are having tough times.</p><p>\n</p><p>I love to make games especially when games have wonderful meanings that affect a person.  I am a programmer and as well as a 3D Artist. </p><p> I'm a programmer by heart but I also love to do 3D art especially animation.  I can do 2D Art but I prefer 3D rather than 2D because I want to visually see things in a 3 Dimensional perspective. </p><p><br></p><p>Not only do I love to program and do 3D things but also I love to play games.  I'm a third-person perspective kind of guy wherein I love third person games since I love to look at my character every time I play that game.  Action and Story based games are my favorite!<br></p><p><br></p><p>Here are the top 10 of my favorite games of all time</p><p>1.&nbsp; Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Counter Strike Global Offensive\n</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2407,7 +2403,7 @@
             }
           },
           "title": "Making AAA Games",
-          "text": "<p>So I joined Ubisoft Philippines back in 2017 as a Junior Programmer then later on transitioned to a Technical Artist along the way because of my love for 3D in real-time rendering and developing tools.</p><p><br></p><p>\n</p><p>All throughout my experience here in Ubisoft I learned a lot of things. From producing pipelines and workflows for AAA Assets to making tools for DCC and our very own engine, doing a lot of debugging and bug fixing for our engine. Improving existing systems to meet with the new innovations of the current production.</p><p><br></p><p> \n</p><p>Oh hey, I also got to learn a lot of these deep optimization techniques for consoles that I never had a chance before during my university days. I learned a lot from my mentors from different studios in Singapore, Montreal, Quebec, Sofia, Newcastle, Leamington, Chengdu, and etc.</p><p><br></p><p>\n</p><p>Probably so far, the greatest achievement that I have is to work with Assassin's Creed Valhalla handling different aspects of the game, and not only that, I managed to handle one chunk of the game which was the Weapons Pipeline where we made everything from concept down to the weapon which Eivor was using.</p><p><br></p><p>\n</p><p>So my story still continues and currently I own a big feature coming up on an Unannounced Project; building this feature from the ground up. It's a pretty big leap from what I was doing in the past projects... Stay tuned for more details really soon...\n</p><p>While you are here, feel free to check out some of the AAA games I was able to work on.\n</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>So I joined Ubisoft Philippines back in 2017 as a Junior Programmer then later on transitioned to a Technical Artist along the way because of my love for 3D in real-time rendering and developing tools.</p><p><br></p><p>\r</p><p>All throughout my experience here in Ubisoft I learned a lot of things. From producing pipelines and workflows for AAA Assets to making tools for DCC and our very own engine, doing a lot of debugging and bug fixing for our engine. Improving existing systems to meet with the new innovations of the current production.</p><p><br></p><p> \r</p><p>Oh hey, I also got to learn a lot of these deep optimization techniques for consoles that I never had a chance before during my university days. I learned a lot from my mentors from different studios in Singapore, Montreal, Quebec, Sofia, Newcastle, Leamington, Chengdu, and etc.</p><p><br></p><p>\r</p><p>Probably so far, the greatest achievement that I have is to work with Assassin's Creed Valhalla handling different aspects of the game, and not only that, I managed to handle one chunk of the game which was the Weapons Pipeline where we made everything from concept down to the weapon which Eivor was using.</p><p><br></p><p>\r</p><p>So my story still continues and currently I own a big feature coming up on an Unannounced Project. It's a pretty big leap from what I was doing in the past projects... Stay tuned for more details really soon...\r</p><p>While you are here, feel free to check out some of the AAA games I was able to work on.\r</p><p><br></p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\r</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -2512,10 +2508,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "",
+              "alt": "Mobirise",
               "link": "#top",
               "title": "",
               "linkInNewWindow": false
@@ -2562,11 +2558,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2741,10 +2737,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "",
+              "alt": "Mobirise",
               "link": "#top",
               "title": "",
               "linkInNewWindow": false
@@ -2791,11 +2787,11 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -2881,10 +2877,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "",
+              "alt": "Mobirise",
               "link": "#top",
               "title": "",
               "linkInNewWindow": false
@@ -3123,20 +3119,17 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/alsonentuna-logo-wide-263x64.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "index.html",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
               "size": 0
