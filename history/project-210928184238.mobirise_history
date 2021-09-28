@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "resume.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -74,9 +74,9 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2023-1400x1812.png",
-              "link": "https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ",
+              "link": "",
               "alt": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -91,7 +91,7 @@
             }
           },
           "title": "Resume",
-          "text": "<p>View and download my resume using the link below...</p>",
+          "text": "<p>Download my resume using the link below...</p>",
           "_tags": [
             "Theme"
           ],
@@ -116,12 +116,12 @@
             ".btn": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "17px"
+              "font-size": "24px"
             }
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-t"
         },
