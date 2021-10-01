@@ -1,0 +1,1 @@
+xcopy /s D:\Documents\[Files] Web\AlsonEntuna-Portfolio-Build D:\Documents\[Files] Web\AlsonEntuna-github.io
