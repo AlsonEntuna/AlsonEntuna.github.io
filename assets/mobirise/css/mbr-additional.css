@@ -386,6 +386,11 @@
 
 
 
+
+
+
+
+
 #msg-box4-1b .mbr-header__text {
   color: #ffffff;
 }
@@ -443,12 +448,34 @@
   font-family: 'Oxygen', sans-serif;
   text-align: left;
 }
+#msg-box2-26 .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box2-26 .mbr-article {
+  color: #252525;
+}
+#msg-box4-25 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-25 .mbr-header__subtext {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-25 .mbr-article {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
 #header3-s H3 {
   font-family: 'Oxygen', sans-serif;
 }
 #header3-s P {
-  text-align: center;
+  text-align: left;
   font-family: 'Open Sans Condensed', sans-serif;
+}
+#header3-s SPAN {
+  font-family: 'Oxygen', sans-serif;
 }
 #buttons1-r .btn {
   font-family: 'Oxygen', sans-serif;
