@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "resume.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 79,
+    "uniqCompNum": 77,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -2575,125 +2575,11 @@
           "_anchor": "msg-box4-1e"
         },
         {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "My Experiences...",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-26"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#1e453e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ubisoft-philippines-1400x684.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Technical Artist",
-          "text": "2017 - 2021",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-article": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "<span style=\"font-style: normal;\">Ubisoft Philippines</span>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-25"
-        },
-        {
           "_params": {
             "showMeta": true
           },
           "title": "More about myself",
-          "meta": "<span style=\"font-style: normal;\">to save up some space here in this page, I'll link more information about me in my old website blog. It's a little bit of an introduction about myself that I wrote a few years back on my blog.......</span>",
+          "meta": "to save up some space here in this page, I'll link more information about me in my old website blog. It's a little bit of an introduction about myself that I wrote a few years back on my blog.......",
           "_tags": [
             "Theme"
           ],
@@ -2705,13 +2591,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -3182,7 +3064,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Alson Entuna",
-          "text": "Technical Artist (Tools &amp; Pipeline)",
+          "text": "Programmer - Technical Artist (Tools &amp; Pipeline)",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -3278,7 +3160,7 @@
           "headerAlign": "left",
           "title": "Alson Entuna",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Hi! I'm Alson. Nice to meet you!&nbsp;</p><p>I'm a Gameplay Programmer turned into a Technical Artist, specializing in Tools &amp; Pipeline, after realizing my love for tech in art. </p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art.</p><p>I still code and learn new technologies on my spare time like game engines, graphics and how they work.&nbsp;</p>",
+          "text": "<p>Hi! I'm Alson. Nice to meet you!&nbsp;</p><p>I'm a Gameplay Programmer turned into a Technical Artist, specializing in tools and pipeline, after realizing my love for tech in art. </p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art.</p><p>I still code and learn new technologies on my spare time like game engines, graphics and how they work.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"aboutme.html\" data-toolbar=\"-mbrBtnMove\">About Me</a>"
         },
         {
