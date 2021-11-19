@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -73,7 +73,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2021-png-2-1400x1812.png",
+              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2021-png-1-1400x1812.png",
               "link": "https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ",
               "alt": "",
               "linkInNewWindow": true
@@ -621,7 +621,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>johnalson_entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-6"
         },
@@ -1647,7 +1647,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>johnalson_entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-a"
         }
@@ -2078,7 +2078,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>johnalson_entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-d"
         }
@@ -2291,7 +2291,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>johnalson_entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-g"
         },
@@ -2836,7 +2836,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>johnalson_entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-1"
         },
@@ -2952,7 +2952,7 @@
           "title": "Look me up..",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>You can contact me via these different platforms below. I'll respond as fast as I can. Please don't hesitate to reach out.</p><p>I usually check everything every single day so hit me up if you want to reach out.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://wa.me/639154883673\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"mailto:alson.entuna@outlook.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://wa.me/639154883673\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
           "_tags": [
             "Theme"
           ],
@@ -3065,7 +3065,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>johnalson_entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-x"
         },
@@ -3400,7 +3400,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>johnalson_entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>"
         },
         {
