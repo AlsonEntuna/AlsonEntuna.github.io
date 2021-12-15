@@ -391,6 +391,9 @@
 
 
 
+
+
+
 #msg-box4-1b .mbr-header__text {
   color: #ffffff;
 }
@@ -434,6 +437,39 @@
   text-align: left;
   font-family: 'Oxygen', sans-serif;
 }
+#msg-box2-26 .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+#msg-box2-26 .mbr-article {
+  color: #252525;
+}
+#msg-box4-27 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-27 .mbr-header__subtext {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-27 .mbr-article {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-25 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-25 .mbr-header__subtext {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box4-25 .mbr-article {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
 #msg-box4-1e .mbr-header__text {
   color: #ffffff;
   font-family: 'Oxygen', sans-serif;
@@ -447,25 +483,6 @@
 #msg-box4-1e .mbr-article P {
   font-family: 'Oxygen', sans-serif;
   text-align: left;
-}
-#msg-box2-26 .mbr-header .mbr-header__text {
-  color: #252525;
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box2-26 .mbr-article {
-  color: #252525;
-}
-#msg-box4-25 .mbr-header__text {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box4-25 .mbr-header__subtext {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box4-25 .mbr-article {
-  color: #ffffff;
-  font-family: 'Oxygen', sans-serif;
 }
 #header3-s H3 {
   font-family: 'Oxygen', sans-serif;
