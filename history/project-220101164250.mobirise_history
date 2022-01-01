@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -639,7 +639,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2022 Alson Entuna",
+          "text": "2021 Alson Entuna",
           "_anchor": "footer1-7"
         }
       ]
@@ -724,7 +724,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2022 Alson Entuna",
+          "text": "2021 Alson Entuna",
           "_anchor": "footer1-b"
         },
         {
@@ -1733,7 +1733,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2022 Alson Entuna",
+          "text": "2021 Alson Entuna",
           "_anchor": "footer1-e"
         },
         {
@@ -2309,7 +2309,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2022 Alson Entuna",
+          "text": "2021 Alson Entuna",
           "_anchor": "footer1-h"
         }
       ]
@@ -2610,7 +2610,7 @@
             }
           },
           "headerAlign": "left",
-          "meta": "<span style=\"font-style: normal;\">Crytek - Frankfurt, Germany</span>",
+          "meta": "<span style=\"font-style: normal;\">Crytek</span>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-27"
@@ -2684,7 +2684,7 @@
             }
           },
           "headerAlign": "left",
-          "meta": "<span style=\"font-style: normal;\">Ubisoft Philippines - Santa Rosa, Laguna, Philippines</span>",
+          "meta": "<span style=\"font-style: normal;\">Ubisoft Philippines</span>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-25"
@@ -2930,7 +2930,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2022 Alson Entuna",
+          "text": "2021 Alson Entuna",
           "_anchor": "footer1-2"
         }
       ]
@@ -3159,7 +3159,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2022 Alson Entuna",
+          "text": "2021 Alson Entuna",
           "_anchor": "footer1-y"
         }
       ]
@@ -3242,7 +3242,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chippy-christmas-1200x1600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-8106-2000x2051.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3258,7 +3258,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Alson Entuna",
-          "text": "Technical Artist (Pipeline/Tools)",
+          "text": "Technical Artist (Tools &amp; Pipeline)",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -3332,7 +3332,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-518-1400x1049.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bududuuums-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3494,7 +3494,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2022 Alson Entuna"
+          "text": "2021 Alson Entuna"
         }
       ]
     }
