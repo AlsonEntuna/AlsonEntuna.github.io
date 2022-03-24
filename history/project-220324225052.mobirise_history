@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "resume.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -2668,19 +2668,13 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "color": "#ffffff"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
