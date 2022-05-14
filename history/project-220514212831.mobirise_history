@@ -3449,8 +3449,8 @@
                 "showTitle": true,
                 "title": "Hunt: Showdown",
                 "contentAlign": "right",
-                "text": "Worked with one of the pioneers in game development and the famous CryEngine.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"games-huntshowdown.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.huntshowdown.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hunt: Showdown</a>",
+                "text": "Worked with one of the pioneers in game development.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"games-acvalhalla.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.ubisoft.com/en-gb/game/assassins-creed/valhalla\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hunt: Showdown</a>",
                 "overlay": true,
                 "alt": ""
               },
@@ -3592,7 +3592,7 @@
     "games-huntshowdown.html": {
       "settings": {
         "meta_descr": "Alson Entuna - Hunt: Showdown",
-        "title": "Hunt: Showdown",
+        "title": "Hunt",
         "order": 1
       },
       "components": [
