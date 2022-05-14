@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.4.1",
     "name": "AlsonEntuna",
@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 87,
+    "uniqCompNum": 81,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -41,7 +41,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Resume",
         "title": "Resume",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -648,7 +648,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Assassin's Creed Valhalla",
         "title": "AssassinsCreedValhalla",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1657,7 +1657,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Skull & Bones",
         "title": "Skull&amp;Bones",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2088,7 +2088,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Others",
         "title": "Others",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -2318,7 +2318,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - About Me",
         "title": "About Me",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -3013,7 +3013,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Contact",
         "title": "Contact",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -3316,7 +3316,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chippy-wedding-1280x960.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chippy-christmas-1200x1600.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3406,7 +3406,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-3662-1400x1869.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-518-1400x1049.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3442,19 +3442,6 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/hunt-banner-2000x1125.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Hunt: Showdown",
-                "contentAlign": "right",
-                "text": "Worked with one of the pioneers in game development.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"games-acvalhalla.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.ubisoft.com/en-gb/game/assassins-creed/valhalla\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hunt: Showdown</a>",
-                "overlay": true,
-                "alt": ""
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/ac-valhalla-1440x900.jpg",
                 "active": false,
                 "showButtons": true,
@@ -3482,7 +3469,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/intothelight-1600x866.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -3507,10 +3494,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
@@ -3586,374 +3569,6 @@
             "overlayOpacity": 0.8
           },
           "text": "2022 Alson Entuna"
-        }
-      ]
-    },
-    "games-huntshowdown.html": {
-      "settings": {
-        "meta_descr": "Alson Entuna - Hunt: Showdown",
-        "title": "Hunt",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=-VzX8czuApI&ab_channel=Hunt%3AShowdown",
-              "autoplay": "on",
-              "loop": false
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-2c"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#306844",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/toolbox-2-256x256.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "Tools",
-          "caption1": "Creating tools for multiple disciplines to aid art production. Using various languages and UI frameworks such as Python, Maxscript, MEL, C#, C++, QT, and WPF.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/workflow-02-wf-white-256x256.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "Pipeline",
-          "caption2": "Aiding the TechArt and Art teams in creating pipelines for art production. Creating workflows for artists to become more efficient in their day to day tasks.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/shape-cube-256x256.png",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "LODs",
-          "caption3": "Implementing and developing LOD solution and tools using Simplygon API in different DCCs. Working together with the Engine team on various different topics to improve our LOD Solution in CryEngine.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-2d",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "color": "#efefef",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hunt-credits-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Hunt: Showdown Credits",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-2e"
-        },
-        {
-          "_inherit": "menu",
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#0c2b15"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "16px"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px"
-            }
-          },
-          "_name": "ext.menu",
-          "_customCSS": ".mbr-section__container {\n text-align: center;\n width: 100%;\n}\n\n.btn {\n  \n    background: none;/*this for transparent button*/\n    border: 1px solid #f7da64;/* this is for button border*/\n    color: #f7da64;/* this is text colour*/\n}\na:hover {\nbackground-color: #f7da64;/* button hover colour*/\ncolor: #ffffff;/* text hover colour*/\n}\n\n.text-white \n\n{\n\ncolor: #FFFF00;/*change colour to your choice*/\n\n}\n.btn  {\nborder-radius: 12px;\n  }  \n",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#0c2b15",
-            "hamburgerColor": "#ffffff"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "",
-              "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-ext__menu",
-              "classPrefix": "mdi-",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
-          "_anchor": "ext_menu-29"
-        },
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#0c2b15",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "2022 Alson Entuna",
-          "_anchor": "footer1-2a"
-        },
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#cccccc",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "left"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#0c2b15",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "classPrefix": "mdi-",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
-          "_anchor": "contacts1-2b"
         }
       ]
     }
