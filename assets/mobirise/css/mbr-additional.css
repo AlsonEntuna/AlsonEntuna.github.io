@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 
 
 
@@ -709,5 +710,59 @@
   text-align: left;
 }
 #contacts1-2b DIV {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+#features1-2l P {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#features1-2l .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-2i .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-2i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0c2b15;
+}
+#ext_menu-2i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-2i .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+#ext_menu-2i .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+}
+#msg-box2-2n .mbr-header .mbr-header__text {
+  color: #252525;
+  font-family: 'PT Sans', sans-serif;
+}
+#msg-box2-2n .mbr-article {
+  color: #252525;
+}
+#msg-box2-2n .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-2k STRONG {
+  color: #ffffff;
+}
+#contacts1-2k P {
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#contacts1-2k DIV {
   color: #ffffff;
 }
