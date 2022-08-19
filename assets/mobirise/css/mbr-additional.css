@@ -767,3 +767,56 @@
 #contacts1-2k DIV {
   color: #ffffff;
 }
+
+
+
+
+
+
+
+#features1-2r .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#features1-2r P {
+  color: #efefef;
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-2t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-2t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0c2b15;
+}
+#ext_menu-2t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-2t .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+#ext_menu-2t .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+}
+#msg-box1-2w .mbr-header .mbr-header__text {
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box1-2w .mbr-article {
+  color: #fff;
+}
+#msg-box1-2w .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-2v STRONG {
+  color: #ffffff;
+}
+#contacts1-2v P {
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#contacts1-2v DIV {
+  color: #ffffff;
+}
