@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "expense-tracker.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.6.11",
     "name": "AlsonEntuna",
@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 108,
+    "uniqCompNum": 106,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -648,13 +648,7 @@
           },
           "text": "2022 Alson Entuna",
           "_anchor": "footer1-7",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -741,13 +735,7 @@
           },
           "text": "2022 Alson Entuna",
           "_anchor": "footer1-b",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "header1",
@@ -1772,13 +1760,7 @@
           },
           "text": "2022 Alson Entuna",
           "_anchor": "footer1-e",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         },
         {
           "_inherit": "header1",
@@ -2163,7 +2145,7 @@
           },
           "title": "Games and Other Projects",
           "text": "The link below will show you the things I've worked on.&nbsp; You'll be redirected to my old website. It's a compilation of all the things I've learned throughout the years in the field of Game Development.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://alsonentuna.blogspot.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Show more</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://alsonentuna.blogspot.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Show more</a> ",
           "_tags": [
             "Theme"
           ],
@@ -2228,7 +2210,7 @@
           "title": "Development Portfolio",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Check out my other works in different fields of game development. The links below will redirect you to my old site which contains a log of the stuff I've been working on since I got into game development.</p><p><br></p><p>Here you can find a lot&nbsp; of things and blogs I wrote years back about how I came up with solutions to some problems we encountered in development.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://alsonentuna.blogspot.com/search/label/Programming%20Portfoltio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Programming</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://alsonentuna.blogspot.com/search/label/GameDesign\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Design</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://alsonentuna.blogspot.com/search/label/Art%20Portfolio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Art</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/Programming%20Portfoltio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Programming</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/GameDesign\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Design</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://alsonentuna.blogspot.com/search/label/Art%20Portfolio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Art</a>",
           "_tags": [
             "Theme"
           ],
@@ -2364,13 +2346,7 @@
           },
           "text": "2022 Alson Entuna",
           "_anchor": "footer1-h",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -3078,13 +3054,7 @@
           },
           "text": "2022 Alson Entuna",
           "_anchor": "footer1-2",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -3182,7 +3152,7 @@
           "title": "Look me up..",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>You can contact me via these different platforms below. I'll respond as fast as I can. Please don't hesitate to reach out.</p><p>I usually check everything every single day so hit me up if you want to reach out.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://wa.me/639154883673\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"mailto:alson.entuna@outlook.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://wa.me/639154883673\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"mailto:alson.entuna@outlook.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
           "_tags": [
             "Theme"
           ],
@@ -3318,13 +3288,7 @@
           },
           "text": "2022 Alson Entuna",
           "_anchor": "footer1-y",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -3707,13 +3671,7 @@
             "overlayOpacity": 0.8
           },
           "text": "2022 Alson Entuna",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         }
       ]
     },
@@ -4035,13 +3993,7 @@
           },
           "text": "2022 Alson Entuna",
           "_anchor": "footer1-2a",
-          "_sourceTheme": "default",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_sourceTheme": "default"
         },
         {
           "_name": "contacts1",
@@ -4126,7 +4078,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Expense Tracker",
-          "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments.<br><br>Trying to build it from scratch with my own libraries and implementation.",
+          "text": "A simple WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments.<br><br>Trying to build it from scratch with my own libraries and implementation.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -4144,7 +4096,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/expensetracker-banner-1400x809.png",
+              "src": "@PROJECT_PATH@/assets/images/expensetracker-banner-1400x814.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -4215,7 +4167,7 @@
             }
           },
           "title1": "C#",
-          "caption1": "I decided to push through C# because I still want to enjoy all the tool it provides and so I could also learn more about the new version of it. It's a pretty easy language to learn if you come from C-based languages like C/C++ or Java.<br><br>There are tons of tutorials online and it's really easy to grasp as a beginner. I highly recommend this if you want speed and getting away with C++.",
+          "caption1": "I decided to push through C# because I still want to enjoy all the tool it provides and so I could also learn more about the new version of it. It's a pretty easy language to learn if you come from C-based languages like C/C++ or Java.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -4238,7 +4190,7 @@
             }
           },
           "title2": "WPF",
-          "caption2": "I fell in love with how WPF is easy to grasp and learn. If you are familiar with XML and HTML then it wouldn't be a problem for you to use. Although it's mostly for Windows, I'm fine with it because I usually use Windows as my daily driver for all my dev projects.",
+          "caption2": "I fell in love with how WPF is easy to grasp and learn. If you are familiar with XML and HTML then it wouldn't be a problem for you to use.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -4333,8 +4285,7 @@
             "P": {
               "color": "#ffffff",
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "center"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section__col .mbr-header__text": {
               "color": "#ffffff",
@@ -4421,146 +4372,15 @@
           },
           "text": "2022 Alson Entuna",
           "_sourceTheme": "default",
-          "_anchor": "footer1-2j",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/expensetracker-libraries-1920x1032.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "Building my own Libraries",
-          "text": "<p>Trying to implement my own libraries from the ground up and trying to make them as useful for my future projects.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_sourceTheme": "default",
-          "_anchor": "content5-2z"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#306844",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/expensetracker-libraries-1400x753.png",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<a href=\"https://github.com/AlsonEntuna/ExpenseTracker/tree/develop/WPFWrappers\" class=\"text-success\" target=\"_blank\">ExpenseTracker.Wpf</a>",
-          "text": "<p>This is a library that contains mostly the things you need in WPF development like ViewModel, Styles, Resources, and Converters.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_sourceTheme": "default",
-          "_anchor": "msg-box4-2y"
+          "_anchor": "footer1-2j"
         },
         {
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -4589,9 +4409,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Check it out on GitHub",
+          "title": "It's open-source!",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://github.com/AlsonEntuna/ExpenseTracker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GitHub Repository</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/AlsonEntuna/ExpenseTracker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GitHub Repository</a>",
           "_tags": [
             "Theme"
           ],
@@ -4943,13 +4763,7 @@
           },
           "text": "2022 Alson Entuna",
           "_sourceTheme": "default",
-          "_anchor": "footer1-2u",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "_anchor": "footer1-2u"
         },
         {
           "_styles": {
