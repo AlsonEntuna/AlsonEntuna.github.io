@@ -26,7 +26,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 110,
+    "uniqCompNum": 108,
     "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -4526,7 +4526,7 @@
             }
           },
           "title": "<a href=\"https://github.com/AlsonEntuna/ExpenseTracker/tree/develop/WPFWrappers\" class=\"text-success\" target=\"_blank\">ExpenseTracker.Wpf</a>",
-          "text": "<p>This is a library that contains mostly the things you need in WPF development like ViewModel, Styles, Resources, and Converters.</p><p>The goal of this library is to have as much resources and utilities to re-use within the application.<br></p><p><br></p><p>Simply use add the Resource.xaml to your resources and everything should be in like below:</p><p><i><br></i></p><p><i>&lt;ResourceDictionary Source=\"pack://application:,,,/ExpenseTracker.Wpf;component/Resources/Resources.xaml\" /&gt;</i></p>",
+          "text": "<p>This is a library that contains mostly the things you need in WPF development like ViewModel, Styles, Resources, and Converters.</p>",
           "_tags": [
             "Theme"
           ],
@@ -4553,79 +4553,6 @@
           "_name": "msg-box4",
           "_sourceTheme": "default",
           "_anchor": "msg-box4-2y"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            },
-            ".btn": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Expense Tracker Demo",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://vimeo.com/747908029\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_sourceTheme": "default",
-          "_anchor": "msg-box2-31"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://vimeo.com/747908029",
-              "autoplay": false,
-              "loop": "on"
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_sourceTheme": "default",
-          "_anchor": "video1-30"
         },
         {
           "_inherit": "msg-box1",
