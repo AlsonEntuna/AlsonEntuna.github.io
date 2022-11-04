@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
 
@@ -707,10 +708,12 @@
 #features1-2d .mbr-section__col .mbr-header__text {
   color: #ffffff;
   font-family: 'Oxygen', sans-serif;
+  text-align: center;
 }
 #features1-2d P {
   color: #efefef;
   font-family: 'Oxygen', sans-serif;
+  text-align: center;
 }
 #ext_menu-29 .mbr-brand__name {
   font-size: 16px;
@@ -898,5 +901,105 @@
   text-align: left;
 }
 #contacts1-2v DIV {
+  color: #ffffff;
+}
+
+
+
+
+
+
+#header3-39 H3 {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-39 P {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-36 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-36.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0c2b15;
+}
+#ext_menu-36 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-36 .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+#ext_menu-36 .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+}
+#footer1-37 P {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-38 STRONG {
+  color: #ffffff;
+}
+#contacts1-38 P {
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#contacts1-38 DIV {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+#header3-3b H3 {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-3b P {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box2-3f .mbr-header .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box2-3f .mbr-article {
+  color: #252525;
+}
+#msg-box2-3f .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#ext_menu-3c .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #0c2b15;
+}
+#ext_menu-3c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-3c .mbr-navbar__items a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+}
+#ext_menu-3c .mbr-brand__name a {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+}
+#footer1-3d P {
+  font-family: 'Oxygen', sans-serif;
+}
+#contacts1-3e STRONG {
+  color: #ffffff;
+}
+#contacts1-3e P {
+  color: #cccccc;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+#contacts1-3e DIV {
   color: #ffffff;
 }
