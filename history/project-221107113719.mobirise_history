@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "expense-tracker.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.6.11",
     "name": "AlsonEntuna",
@@ -4144,7 +4144,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/expensetracker-header-1920x1032.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/expensetracker-main-1920x1032.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -4175,7 +4175,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/expensetracker-main-1400x727.png",
+              "src": "@PROJECT_PATH@/assets/images/expensetracker-banner-1400x809.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
