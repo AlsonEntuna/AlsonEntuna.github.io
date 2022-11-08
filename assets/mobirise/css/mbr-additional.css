@@ -759,6 +759,7 @@
 
 
 
+
 #features1-2l P {
   color: #ffffff;
   font-family: 'Oxygen', sans-serif;
@@ -801,6 +802,9 @@
 }
 #content5-2z .mbr-article {
   color: #fff;
+}
+#content5-2z .mbr-article P {
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box4-2y .mbr-header__text {
   color: #ffffff;
