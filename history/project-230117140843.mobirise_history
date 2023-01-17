@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "expense-tracker.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.6.11",
     "name": "AlsonEntuna",
@@ -9,44 +9,32 @@
       "title": "AlsonEntuna-Portfolio",
       "styling": {},
       "additionalSetColors": [
-        "#424a4d",
         "#252525",
         "#3c3c3c",
         "#9c9c9c",
         "#0c2b15",
         "#28613a",
         "#193b23",
-        "#1e453e"
+        "#1e453e",
+        "#2c4c3b"
       ]
     },
     "favicon": false,
     "google-analytics": "",
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#efefef",
-      "colorBg": "#1e453e",
-      "colorButton": "#000000",
-      "colorLink": "#cccccc",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
+    "cookiesAlert": false,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 125,
-    "mbrsiteDomain": "n1egpm8ya7",
+    "mbrsiteDomain": "tfvfgznxkj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
+    "gdpr": false,
     "publishType": "local",
-    "publishPath": "file:///D:/Documents/%5BFiles%5D%20Web/AlsonEntuna-Portfolio-Build",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "gdpr": false
+    "publishPath": "file:///D:/Documents/%5BFiles%5D%20Web/AlsonEntuna-Portfolio-Build"
   },
   "pages": {
     "resume.html": {
@@ -111,8 +99,8 @@
             ".mbr-header__text": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "36px"
             },
             ".mbr-header__subtext": {
@@ -122,12 +110,12 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "17px"
             }
           },
@@ -151,8 +139,8 @@
           "_anchor": "header3-1w",
           "_styles": {
             "H3": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "center",
               "font-size": "30px"
             }
@@ -326,14 +314,14 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#ffffff"
             },
             ".mbr-section__col .mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "25px"
             }
           },
@@ -353,13 +341,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -412,8 +400,8 @@
           "_anchor": "header3-1d",
           "_styles": {
             "H3": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_sourceTheme": "default"
@@ -574,16 +562,16 @@
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "text-align": "center",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px",
               "color": "#ffffff"
             },
             "P": {
               "text-align": "center",
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_sourceTheme": "default"
@@ -596,8 +584,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -639,7 +627,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-6",
           "_sourceTheme": "default"
@@ -658,13 +646,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_anchor": "footer1-7",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         }
@@ -691,13 +679,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -751,13 +739,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_anchor": "footer1-b",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -803,8 +791,8 @@
               "text-align": "center",
               "color": "#fff",
               "font-size": "36px",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -815,8 +803,8 @@
             },
             ".mbr-article P": {
               "text-align": "center",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1021,15 +1009,15 @@
           "_anchor": "features1-l",
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "center",
               "font-size": "23px",
               "color": "#ffffff"
             },
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#ffffff"
             }
           },
@@ -1039,16 +1027,16 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1154,8 +1142,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1164,8 +1152,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
@@ -1179,8 +1167,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1189,8 +1177,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1246,8 +1234,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -1256,8 +1244,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "17px",
               "text-align": "center"
             }
@@ -1315,16 +1303,16 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1380,16 +1368,16 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -1447,8 +1435,8 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#fff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "36px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -1611,8 +1599,8 @@
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
               "text-align": "center",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -1655,8 +1643,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -1694,7 +1682,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-a",
           "_sourceTheme": "default"
@@ -1722,13 +1710,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -1782,13 +1770,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_anchor": "footer1-e",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -2045,8 +2033,8 @@
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "font-size": "20px",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_sourceTheme": "default"
@@ -2056,8 +2044,8 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#252525"
@@ -2100,8 +2088,8 @@
             },
             "P": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "DIV": {
               "color": "#ffffff"
@@ -2138,7 +2126,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-d",
           "_sourceTheme": "default"
@@ -2183,8 +2171,8 @@
           "_anchor": "header1-11",
           "_styles": {
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "18px"
             }
           },
@@ -2195,8 +2183,8 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "36px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -2206,13 +2194,13 @@
               "color": "#efefef"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
-              "font-size": "14px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "20px"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -2262,13 +2250,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -2316,8 +2304,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -2355,7 +2343,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-g",
           "_sourceTheme": "default"
@@ -2374,13 +2362,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_anchor": "footer1-h",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         }
@@ -2469,8 +2457,8 @@
               "text-align": "center",
               "color": "#fff",
               "font-size": "46px",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -2481,8 +2469,8 @@
             },
             ".mbr-article P": {
               "text-align": "left",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -2524,8 +2512,8 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "36px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -2537,8 +2525,8 @@
             },
             ".mbr-article P": {
               "text-align": "left",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -2579,8 +2567,8 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "center",
               "font-size": "30px"
             },
@@ -2671,18 +2659,18 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
@@ -2746,8 +2734,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -2756,8 +2744,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
@@ -2821,18 +2809,18 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
@@ -2896,8 +2884,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -2906,8 +2894,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             }
           },
@@ -2931,8 +2919,8 @@
           "_anchor": "header3-s",
           "_styles": {
             "H3": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
               "text-align": "left",
@@ -2940,8 +2928,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "SPAN": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_sourceTheme": "default"
@@ -2955,8 +2943,8 @@
           "_anchor": "buttons1-r",
           "_styles": {
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "24px"
             }
           },
@@ -2976,13 +2964,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -3030,8 +3018,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -3069,7 +3057,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-1",
           "_sourceTheme": "default"
@@ -3088,13 +3076,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_anchor": "footer1-2",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         }
@@ -3138,8 +3126,8 @@
           "_anchor": "header1-1z",
           "_styles": {
             "H1": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_sourceTheme": "default"
@@ -3149,8 +3137,8 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "36px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -3160,13 +3148,13 @@
               "color": "#efefef"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
-              "font-size": "14px"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "24px"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -3216,13 +3204,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -3270,8 +3258,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -3309,7 +3297,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-x",
           "_sourceTheme": "default"
@@ -3328,13 +3316,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_anchor": "footer1-y",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         }
@@ -3364,13 +3352,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -3445,8 +3433,8 @@
           "_anchor": "header4-20",
           "_styles": {
             "H1": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "60px"
             },
             "P": {
@@ -3471,12 +3459,12 @@
             ".mbr-article P": {
               "color": "#ffffff",
               "text-align": "left",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "21px"
             }
           },
@@ -3510,7 +3498,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img_9435(1)-1400x1921.png",
+              "src": "@PROJECT_PATH@/assets/images/img-7790-1400x1869.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3532,7 +3520,7 @@
           "headerAlign": "left",
           "title": "Alson Entuna",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Nice to meet you! I'm a Gameplay Programmer turned into a Technical Artist, specializing in Tools &amp; Pipeline, after realizing my love for tech in art.</p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art. I still code and learn new technologies on my spare time like game engines, graphics and how they work.&nbsp;</p>",
+          "text": "<p>Hi! I'm Alson. Nice to meet you!&nbsp;</p><p>I'm a Gameplay Programmer turned into a Technical Artist, specializing in Tools &amp; Pipeline, after realizing my love for tech in art. </p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art.</p><p>I still code and learn new technologies on my spare time like game engines, graphics and how they work.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"aboutme.html\" data-toolbar=\"-mbrBtnMove\">About Me</a>",
           "_sourceTheme": "default"
         },
@@ -3668,16 +3656,16 @@
           "_anchor": "slider-4",
           "_styles": {
             "H1": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_sourceTheme": "default"
@@ -3690,8 +3678,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -3733,7 +3721,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default"
         },
@@ -3752,12 +3740,12 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         }
@@ -3965,14 +3953,14 @@
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "center"
             },
             "P": {
               "color": "#efefef",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "center"
             }
           },
@@ -4024,13 +4012,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -4084,13 +4072,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_anchor": "footer1-2a",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -4102,8 +4090,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -4141,7 +4129,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-2b",
           "_sourceTheme": "default"
@@ -4383,15 +4371,15 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "center"
             },
             ".mbr-section__col .mbr-header__text": {
               "color": "#ffffff",
               "text-align": "center",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "36px"
             }
           }
@@ -4410,13 +4398,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -4470,13 +4458,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_sourceTheme": "default",
           "_anchor": "footer1-2j",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -4486,8 +4474,8 @@
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
               "color": "#fff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -4497,8 +4485,8 @@
               "color": "#fff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -4588,8 +4576,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -4598,8 +4586,8 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
@@ -4614,15 +4602,15 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#252525"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -4687,15 +4675,15 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#252525",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#252525"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -4781,20 +4769,20 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
@@ -4812,8 +4800,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -4851,7 +4839,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-2k"
@@ -5060,13 +5048,13 @@
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
               "color": "#efefef",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_sourceTheme": "default",
@@ -5086,13 +5074,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -5146,13 +5134,13 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_sourceTheme": "default",
           "_anchor": "footer1-2u",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -5160,15 +5148,15 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#fff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#fff"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -5208,8 +5196,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -5247,7 +5235,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-2v"
@@ -5308,8 +5296,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -5327,13 +5315,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -5387,12 +5375,12 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "footer1-37"
@@ -5405,8 +5393,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -5444,7 +5432,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-38"
@@ -5507,8 +5495,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "header3-3b"
@@ -5518,15 +5506,15 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-article": {
               "color": "#252525"
             },
             ".btn": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_params": {
@@ -5572,13 +5560,13 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "16px"
             },
             ".mbr-brand__name a": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "20px"
             }
           },
@@ -5632,12 +5620,12 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2023 Alson Entuna",
+          "text": "2022 Alson Entuna",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "footer1-3d"
@@ -5650,8 +5638,8 @@
             },
             "P": {
               "color": "#cccccc",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "text-align": "left"
             },
             "DIV": {
@@ -5689,7 +5677,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Santa Rosa, Laguna<br>Philippines<br>4026",
-          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 915-488-3673<br><br>",
+          "text2": "<strong>CONTACT</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp/Viber/WeChat<br></b>(+63) 9154883673<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-3e"
