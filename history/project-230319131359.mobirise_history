@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "5.8.4",
+    "versionPublish": "5.6.11",
     "name": "AlsonEntuna",
     "theme": {
       "name": "default",
@@ -2422,7 +2422,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-9185-1400x1867.png",
+              "src": "@PROJECT_PATH@/assets/images/profile-1-648x648.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -2440,7 +2440,7 @@
             }
           },
           "title": "Nice to meet you!",
-          "text": "<p>Ok, so before we go deeper about me, I would like to say that I'm a dog lover that's why I'm putting my pet dog named \"Chippy Boy\" until I get some decent home page photo for my website.&nbsp;</p><p><br></p><p>Alright let's move on...</p><p><br></p><p>Good thing you were able to were able to pass by my site. I'll share more about myself below...</p>",
+          "text": "<p>Ok, so before we go deeper about me, I would like to say that I'm a dog lover that's why I'm putting my pet dog named \"Chippy Boi\" until I get some decent home page photo for my website.&nbsp;</p><p><br></p><p>Alright let's move on...</p><p><br></p><p>Good thing you were able to were able to pass by my site. I'll share more about myself below...</p>",
           "_tags": [
             "Theme"
           ],
@@ -3160,8 +3160,8 @@
               "color": "#efefef"
             },
             ".btn": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
               "font-size": "14px"
             },
             ".mbr-article P": {
@@ -3191,10 +3191,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contact Me",
+          "title": "Look me up..",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>You can contact me via these different platforms below. I'll respond as fast as I can. Please don't hesitate to reach out.</p><p>I usually check everything every single day so hit me up if you want to reach out.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://wa.me/4917666108047\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"mailto:alson.entuna@outlook.com\" data-toolbar=\"-mbrBtnMove\">Email</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://wa.me/639154883673\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"mailto:alson.entuna@outlook.com\" data-toolbar=\"-mbrBtnMove\">Email</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Viber</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LinkedIn</a>",
           "_tags": [
             "Theme"
           ],
@@ -3475,8 +3475,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
             },
             ".btn": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
               "font-size": "21px"
             }
           },
