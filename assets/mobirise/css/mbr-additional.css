@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
@@ -586,7 +587,7 @@
   color: #efefef;
 }
 #msg-box3-10 .btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 14px;
 }
 #msg-box3-10 .mbr-article P {
@@ -673,7 +674,7 @@
   font-family: 'Poppins', sans-serif;
 }
 #msg-box4-1 .btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Oxygen', sans-serif;
   font-size: 21px;
 }
 #slider-4 H1 {
