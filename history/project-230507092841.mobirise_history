@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "games-huntshowdown.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
-    "name": "AlsonEntuna - Senior Technical Artist",
+    "name": "AlsonEntuna",
     "theme": {
       "name": "default",
       "title": "AlsonEntuna-Portfolio",
@@ -38,7 +38,7 @@
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 127,
-    "mbrsiteDomain": "piv7eysd63",
+    "mbrsiteDomain": "n1egpm8ya7",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -46,12 +46,7 @@
     "publishType": "local",
     "publishPath": "file:///D:/Documents/%5BFiles%5D%20Web/AlsonEntuna-Portfolio-Build",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    }
+    "gdpr": false
   },
   "pages": {
     "resume.html": {
@@ -90,7 +85,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2023-a4-1400x1980.png",
+              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2021-png-2-1400x1812.png",
               "link": "https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ",
               "alt": "",
               "linkInNewWindow": true
@@ -138,7 +133,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/s!AntNKRAkIDXBi4hWWpxUdJ7q5gvfDQ?e=5Ledyt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-t",
           "_sourceTheme": "default"
@@ -212,7 +207,7 @@
             }
           },
           "title1": "Programming",
-          "caption1": "I started as a gameplay programmer using Unreal Engine 4 in C++. <br><br>Then I found my path through Tech Art that opened my career to different languages such as C#, Substance's YML, WPF, WinForms, Maxscript, Python, Qt. <br><br>I usually adapt to whatever the production needs as best as I can to ensure that I can deliver whatever the project needs.",
+          "caption1": "I started as a gameplay programmer using Unreal Engine 4 in C++. <br><br>Then I found my path through Tech Art that opened my career to different languages such as C#, Substance's YML, WPF, WinForms, Maxscript, Python. <br><br>I usually adapt to whatever the production needs as best as I can to ensure that I can deliver whatever the project needs.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -235,7 +230,7 @@
             }
           },
           "title2": "Game Engines",
-          "caption2": "Working with different engines since I started in the field of Game Development.<br><br> It's my passion to learn more about how Game Engines work and the tech behind their architecture.<br><br>These include CryEngine V, Unreal Engine 4, Unity, Cocos2dx, Construct3, and of course our own proprietary game engine Anvil.",
+          "caption2": "Working with different engines since I started in the field of Game Development.<br><br> It's my passion to learn more about how Game Engines work and the tech behind their architecture.<br><br>These include Unreal Engine 4, Unity, Cocos2dx, Construct3, and of course our own proprietary game engine Anvil.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -434,7 +429,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -512,7 +507,7 @@
             }
           },
           "title3": "<a href=\"mailto:huiyee_t@hotmail.com\" class=\"text-info\">Hui Yee Tham</a>",
-          "caption3": "Technical Artist<br><br><br>Ubisoft Singapore",
+          "caption3": "<br>Technical Artist<br><br><br>Ubisoft Singapore",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -531,8 +526,8 @@
               "size": 0
             }
           },
-          "title4": "<a href=\"mailto:jrprosaria@gmail.com\" class=\"text-info\">John Rosaria</a>",
-          "caption4": "Gameplay Programmer<br><br><br>Myrkur Games",
+          "title4": "<a href=\"mailto:thinkactbe666@gmail.com\" class=\"text-info\">Noel Llorca</a>",
+          "caption4": "<br>Technical Artist<br><br><br>Ubisoft Philippines",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -572,7 +567,7 @@
             }
           },
           "title6": "<a href=\"mailto:jrprosaria@gmail.com\" class=\"text-info\">John Rosaria</a>",
-          "caption6": "<br>Gameplay Programmer<br><br>Myrkur Games",
+          "caption6": "<br>Technical Level Designer<br><br>Ubisoft Philippines",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-1c",
@@ -643,7 +638,7 @@
               "active": true
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
           "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-6",
@@ -3737,7 +3732,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
           "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default"

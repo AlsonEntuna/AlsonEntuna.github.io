@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "resume.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
-    "name": "AlsonEntuna - Senior Technical Artist",
+    "name": "AlsonEntuna",
     "theme": {
       "name": "default",
       "title": "AlsonEntuna-Portfolio",
@@ -38,7 +38,7 @@
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 127,
-    "mbrsiteDomain": "piv7eysd63",
+    "mbrsiteDomain": "n1egpm8ya7",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -46,12 +46,7 @@
     "publishType": "local",
     "publishPath": "file:///D:/Documents/%5BFiles%5D%20Web/AlsonEntuna-Portfolio-Build",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    }
+    "gdpr": false
   },
   "pages": {
     "resume.html": {
@@ -434,7 +429,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -512,7 +507,7 @@
             }
           },
           "title3": "<a href=\"mailto:huiyee_t@hotmail.com\" class=\"text-info\">Hui Yee Tham</a>",
-          "caption3": "Technical Artist<br><br><br>Ubisoft Singapore",
+          "caption3": "<br>Technical Artist<br><br><br>Ubisoft Singapore",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -532,7 +527,7 @@
             }
           },
           "title4": "<a href=\"mailto:jrprosaria@gmail.com\" class=\"text-info\">John Rosaria</a>",
-          "caption4": "Gameplay Programmer<br><br><br>Myrkur Games",
+          "caption4": "<br>Gameplay Programmer<br><br>Myrkur Games",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -643,7 +638,7 @@
               "active": true
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
           "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-6",
@@ -3737,7 +3732,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
           "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default"
