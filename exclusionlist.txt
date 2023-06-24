@@ -1,1 +1,2 @@
 .mobirise\
+.vs\
