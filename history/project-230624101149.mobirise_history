@@ -9,7 +9,8 @@
       "title": "AlsonEntuna-Portfolio",
       "styling": {},
       "additionalSetColors": [
-        "#21773a",
+        "#424a4d",
+        "#252525",
         "#3c3c3c",
         "#9c9c9c",
         "#0c2b15",
@@ -20,12 +21,24 @@
     },
     "favicon": false,
     "google-analytics": "",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#efefef",
+      "colorBg": "#1e453e",
+      "colorButton": "#000000",
+      "colorLink": "#cccccc",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 129,
-    "mbrsiteDomain": "lo3d9sxnkl",
+    "uniqCompNum": 127,
+    "mbrsiteDomain": "piv7eysd63",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -38,8 +51,7 @@
       "colorLink": "#149dcc",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "cookiesAlert": false
+    }
   },
   "pages": {
     "resume.html": {
@@ -632,7 +644,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-6",
           "_sourceTheme": "default"
@@ -1686,8 +1698,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-a",
           "_sourceTheme": "default"
@@ -2130,8 +2142,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-d",
           "_sourceTheme": "default"
@@ -2347,8 +2359,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-g",
           "_sourceTheme": "default"
@@ -2433,7 +2445,7 @@
             }
           },
           "title": "Nice to meet you!",
-          "text": "<p>Ok, so before we go deeper about me, I would like to say that I'm a dog lover that's why I'm putting my pet dog named \"Chippy Boy\" until I get some decent home page photo for my website.&nbsp;</p><p><br></p><p>Alright let's move on...</p><p><br></p><p>Good thing you were able to pass by my site. I'll share more about myself below...</p>",
+          "text": "<p>Ok, so before we go deeper about me, I would like to say that I'm a dog lover that's why I'm putting my pet dog named \"Chippy Boy\" until I get some decent home page photo for my website.&nbsp;</p><p><br></p><p>Alright let's move on...</p><p><br></p><p>Good thing you were able to were able to pass by my site. I'll share more about myself below...</p>",
           "_tags": [
             "Theme"
           ],
@@ -2501,7 +2513,7 @@
             "overlayOpacity": 0.2
           },
           "title": "A little thing about me..",
-          "text": "<p>Hi I'm John Alson Entuna! People call me Alson because John is common haha!. Anyways, I'm currently a Senior Technical Artist - Pipeline/Tools working for Crytek GmbH. Previously work for Ubisoft Philippines as a Technical Artist. </p><p><br></p><p>I went on AAA Game Development as soon as I finished my degree in Game Development. I worked with games such as Skull &amp; Bones and Assassin's Creed Valhalla as a Technical Artist specializing in Tools and Pipeline. I love to deconstruct game engines and understand how they work so I could better improve the things that our team needs to be efficient and produce the best quality experiences for our players.</p><p><br></p><p>I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.<br></p><p> \n</p><p><br></p><p>I love to make games especially when games have wonderful meanings that affect a person. I am a programmer and as well as a Technical Artist.\n</p><p> \n</p><p><br></p><p>Not only do I love to code and do 3D things but also I love to play games. I'm a third-person kind of guy wherein I love to look at my character every time I play a game. Action and Story-based games are my favorites!\n</p><p><br></p><p>Right now, the experience I have with AAA Game Development, made me realize a whole new focus that I wanted to pursue in games; and that’s Tools &amp; Pipeline. I developed a love for creating tools and pipelines/workflows for the team because of the constant challenges and problems that come on a day-to-day basis in development. Tools also had a great impact on me because I have this sense of accomplishment whenever I see teams benefit from the things I developed to make them more efficient and speed up tasks.<br></p><p><br></p><p>\n</p><p>Here are the top 10 of my favorite games of all time</p><p>1.&nbsp; Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Hunt: Showdown</p><p>7. Call of Duty Modern Warfare</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Bioshock Infinite</p><p>\n</p><p>\n</p>",
+          "text": "<p>Hi I'm John Alson Entuna! People call me Alson because John is common haha!. Anyways, I'm currently a Senior Technical Artist - Pipeline/Tools working for Crytek GmbH. Previously work for Ubisoft Philippines as a Technical Artist. </p><p><br></p><p>I went on AAA Game Development as soon as I finished my degree in Game Development. I worked with games such as Skull &amp; Bones and Assassin's Creed Valhalla as a Technical Artist specializing in Tools and Pipeline. I love to deconstruct game engines and understand how they work so I could better improve the things that our team needs to be efficient and produce the best quality experiences for our players.</p><p><br></p><p>I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.<br></p><p> \n</p><p><br></p><p>Yes! I was born and raised in a province in Visayas. I grew up in a city that is filled with a lot of smiles and colorful masks. People say we have a sweet voice and we tend to be happy a lot even if we are having tough times.\n</p><p>I love to make games especially when games have wonderful meanings that affect a person. I am a programmer and as well as a Technical Artist.\n</p><p> \n</p><p><br></p><p>Not only do I love to code and do 3D things but also I love to play games. I'm a third-person kind of guy wherein I love to look at my character every time I play a game. Action and Story-based games are my favorites!\n</p><p><br></p><p>Right now, the experience I have with AAA Game Development, made me realize a whole new focus that I wanted to pursue in games; and that’s Tools &amp; Pipeline. I developed a love for creating tools and pipelines/workflows for the team because of the constant challenges and problems that come on a day-to-day basis in development. Tools also had a great impact on me because I have this sense of accomplishment whenever I see teams benefit from the things I developed to make them more efficient and speed up tasks.<br></p><p><br></p><p>\n</p><p>Here are the top 10 of my favorite games of all time</p><p>1.&nbsp; Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division\n</p><p>3. DmC Devil May Cry\n</p><p>4. Sleeping Dogs\n</p><p>5. Battlefield 1\n</p><p>6. Bioshock Infinite\n</p><p>7. Call of Duty Modern Warfare</p><p>8. Brothers - A Tale of Two Sons\n</p><p>9. Ryse: Son of Rome\n</p><p>10. Alan Wake</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -3061,8 +3073,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-1",
           "_sourceTheme": "default"
@@ -3301,8 +3313,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-x",
           "_sourceTheme": "default"
@@ -3412,7 +3424,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/website_header-2000x2667.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/website_header-1835x755.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3526,7 +3538,7 @@
           "title": "Alson Entuna",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Nice to meet you! I'm a Gameplay Programmer turned into a Technical Artist, specializing in Tools &amp; Pipeline, after realizing my love for tech in art.</p><p>I learned how to make pretty things programmatically and help out our team of artists achieve their maximum quality in art. I still code and learn new technologies on my spare time like game engines, graphics and how they work.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"aboutme.html\" data-toolbar=\"-mbrBtnMove\">About Me</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"aboutme.html\" data-toolbar=\"-mbrBtnMove\">About Me</a>",
           "_sourceTheme": "default"
         },
         {
@@ -3726,7 +3738,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default"
         },
@@ -3778,9 +3790,9 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=bQ0UUH2y38k&ab_channel=Hunt%3AShowdown",
+              "src": "https://www.youtube.com/watch?v=Vf9mZgfZ83Q&ab_channel=Hunt%3AShowdown",
               "autoplay": "on",
-              "loop": "on"
+              "loop": false
             }
           },
           "text": "Hunt: Showdown",
@@ -3801,7 +3813,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "5",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -3839,7 +3851,7 @@
             }
           },
           "title1": "Tools",
-          "caption1": "Creating tools for multiple disciplines to aid art production. Using various languages and UI frameworks such as Python, Maxscript, MEL, C#, C++, QT, and WPF.<br><br>Worked with Maya, 3ds Max, Standalone Applications and CryEngine.",
+          "caption1": "Creating tools for multiple disciplines to aid art production. Using various languages and UI frameworks such as Python, Maxscript, MEL, C#, C++, QT, and WPF.<br><br>Worked with Maya, 3ds Max, Standalone and CryEngine.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -3913,12 +3925,9 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/planning-512x512.png",
+              "src": "images/blocks.png",
               "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
+              "width": 600
             },
             "video": {
               "class": "mbr-figure__img",
@@ -3930,8 +3939,8 @@
               "size": 0
             }
           },
-          "title5": "Roadmap Planning",
-          "caption5": "Planning ahead for the Technical Art team on what priorities we can to focus on for the year. Giving a brainstorming session for Seniors to think what we want to improve on the current year and plan out how we can execute the plans we planned and how we can tackle them if something arises that were not in our scope.",
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -4129,67 +4138,6 @@
           "_anchor": "msg-box5-3i"
         },
         {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/4ZKTq2qELZk",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "The Phantom of the Catacombs | DLC Trailer | Hunt: Showdown",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://youtu.be/4ZKTq2qELZk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Trailer</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "default",
-          "_anchor": "msg-box5-3j"
-        },
-        {
           "_inherit": "menu",
           "_styles": {
             ".mbr-brand__name": {
@@ -4274,67 +4222,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=bQ0UUH2y38k&ab_channel=Hunt%3AShowdown",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Rotjaw - Wild Target | Official Trailer | Hunt: Showdown",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=bQ0UUH2y38k&amp;ab_channel=Hunt%3AShowdown\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Trailer</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "default",
-          "_anchor": "msg-box5-3k"
-        },
-        {
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
@@ -4380,8 +4267,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_anchor": "contacts1-2b",
           "_sourceTheme": "default"
@@ -4417,7 +4304,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Expense Tracker",
-          "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments. It supports multi-currency conversion and a main currency that you wish to pay/use<br><br>Trying to build it from scratch with my own libraries and implementation.",
+          "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments.<br><br>Trying to build it from scratch with my own libraries and implementation.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -4435,7 +4322,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/expensetracker-banner-1400x727.png",
+              "src": "@PROJECT_PATH@/assets/images/expensetracker-app-1400x727.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -5090,8 +4977,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-2k"
@@ -5486,8 +5373,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-2v"
@@ -5683,8 +5570,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-38"
@@ -5928,8 +5815,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Germany<br>",
-          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Frankfurt am Main,<br>Germany<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp | Telegram</b><b><br></b>+49&nbsp;176&nbsp;66108047<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-3e"
