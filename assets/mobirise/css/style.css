@@ -722,7 +722,7 @@ html {
 .mbr-arrow--dark .mbr-arrow__link,
 .mbr-arrow--dark .mbr-arrow__link:hover,
 .mbr-arrow--dark .mbr-arrow__link:focus {
-  color: #252525;
+  color: #21773a;
 }
 @media (max-width: 767px) {
   .mbr-arrow {
@@ -1563,16 +1563,16 @@ html {
   background: #4c6972;
 }
 .mbr-plan--success .mbr-plan__header {
-  background: #7ac673;
+  background: #21773a;
 }
 .mbr-plan--info .mbr-plan__header {
-  background: #27aae0;
+  background: #3c3c3c;
 }
 .mbr-plan--warning .mbr-plan__header {
-  background: #faaf40;
+  background: #3c3c3c;
 }
 .mbr-plan--danger .mbr-plan__header {
-  background: #f97352;
+  background: #28613a;
 }
 @media (max-width: 767px) {
   .mbr-plan,
