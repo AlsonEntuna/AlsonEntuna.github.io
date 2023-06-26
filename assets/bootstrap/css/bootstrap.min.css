@@ -3220,7 +3220,7 @@ select[multiple].form-group-lg .form-control {
   padding: 9px 18px;
   font-size: 14px;
   line-height: 1.42857143;
-  border-radius: 0px;
+  border-radius: 12px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -3778,7 +3778,7 @@ fieldset[disabled] .btn-danger.active {
 .btn-link {
   color: #4c6972;
   font-weight: normal;
-  border-radius: 0;
+  border-radius: 12px;
 }
 .btn-link,
 .btn-link:active,
@@ -3813,21 +3813,21 @@ fieldset[disabled] .btn-link:focus {
   padding: 16px 27px;
   font-size: 18px;
   line-height: 1.3333333;
-  border-radius: 0px;
+  border-radius: 12px;
 }
 .btn-sm,
 .btn-group-sm > .btn {
   padding: 8px 15px;
   font-size: 12px;
   line-height: 1.5;
-  border-radius: 0px;
+  border-radius: 12px;
 }
 .btn-xs,
 .btn-group-xs > .btn {
   padding: 1px 5px;
   font-size: 12px;
   line-height: 1.5;
-  border-radius: 0px;
+  border-radius: 12px;
 }
 .btn-block {
   display: block;
@@ -4392,7 +4392,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .input-group-addon:not(:first-child):not(:last-child),
 .input-group-btn:not(:first-child):not(:last-child),
 .input-group .form-control:not(:first-child):not(:last-child) {
-  border-radius: 0;
+  border-radius: 12px;
 }
 .input-group-addon,
 .input-group-btn {
