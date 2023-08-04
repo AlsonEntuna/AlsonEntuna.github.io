@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "expense-tracker.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -4435,7 +4435,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/expensetracker-app-1400x815.png",
+              "src": "@PROJECT_PATH@/assets/images/expensetracker-banner-1400x727.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
