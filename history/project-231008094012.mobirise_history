@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -24,7 +24,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 130,
+    "uniqCompNum": 129,
     "mbrsiteDomain": "lo3d9sxnkl",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -3412,7 +3412,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-7033-2000x1200.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/website_header_aug-2000x1510.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3503,7 +3503,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img_4179(1)-1400x1867.png",
+              "src": "@PROJECT_PATH@/assets/images/1n5a1028-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3540,32 +3540,18 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/hunt-banner-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/assetmanager_banner-1920x1032.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Hunt: Showdown",
+                "title": "Personal Project: Asset Manager",
                 "contentAlign": "right",
-                "text": "Worked with one of the pioneers in game development and the famous CryEngine V.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"games-huntshowdown.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.huntshowdown.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hunt: Showdown</a>",
+                "text": "An asset manager that has a 3D previewer and perforce integration",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assetmanager.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> ",
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.8"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/expensetracker-app-1706x993.png",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Personal Project: ExpenseTracker",
-                "contentAlign": "right",
-                "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments in different currencies.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"expense-tracker.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.huntshowdown.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GitHub</a>",
-                "overlay": true,
-                "alt": "",
-                "overlayOpacity": "0.9"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/crytek_logo_bg-1920x1080.png",
@@ -3596,15 +3582,29 @@
                 "overlayOpacity": "0.8"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/assetmanager_banner-1920x1032.png",
+                "image": "@PROJECT_PATH@/assets/images/expensetracker-app-1706x993.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Personal Project: ExpenseTracker",
+                "contentAlign": "right",
+                "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments in different currencies.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"expense-tracker.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.huntshowdown.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GitHub</a>",
+                "overlay": true,
+                "alt": "",
+                "overlayOpacity": "0.9"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hunt-banner-2000x1125.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Personal Project: Asset Manager",
+                "title": "Hunt: Showdown",
                 "contentAlign": "right",
-                "text": "An asset manager that has a 3D previewer and perforce integration",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assetmanager.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> ",
+                "text": "Worked with one of the pioneers in game development and the famous CryEngine V.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"games-huntshowdown.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.huntshowdown.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hunt: Showdown</a>",
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.8"
@@ -3778,7 +3778,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=rrgbk8ngB-8",
+              "src": "https://www.youtube.com/watch?v=bQ0UUH2y38k&ab_channel=Hunt%3AShowdown",
               "autoplay": "on",
               "loop": "on"
             }
@@ -4333,67 +4333,6 @@
           "_name": "msg-box5",
           "_sourceTheme": "default",
           "_anchor": "msg-box5-3k"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=rrgbk8ngB-8",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Tide of Corruption",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Trailer</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "default",
-          "_anchor": "msg-box5-3l"
         },
         {
           "_name": "contacts1",
@@ -5797,7 +5736,7 @@
           "_params": {
             "showMeta": false
           },
-          "title": "This project is currently on hold...<br>We're working on another one",
+          "title": "Stay Tuned!<br>I'll add in more soon...",
           "meta": "",
           "_tags": [
             "Theme"
