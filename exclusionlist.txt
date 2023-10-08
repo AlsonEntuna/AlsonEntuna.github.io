@@ -1,2 +1,5 @@
 .mobirise\
 .vs\
+
+assets\bootstrap\css
+assets\mobirise\css
