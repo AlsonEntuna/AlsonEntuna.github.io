@@ -276,7 +276,26 @@
                     <div class="col-sm-4">
                         <p class="mbr-contacts__text"><strong>Email</strong><br>alson.entuna@outlook.com<br><br><strong>WhatsApp</strong><strong><br></strong><a href="https://api.whatsapp.com/send/?phone=4917666108047" class="text-primary" target="_blank">+49&nbsp;176&nbsp;66108047</a><br><br></p>
                     </div>
-                    <div class="col-sm-4"><p class="mbr-contacts__text"><strong>LINKS</strong></p><p class="mbr-contacts__text"><a href="https://github.com/AlsonEntuna" class="text-gray" target="_blank" style="background-color: rgb(12, 43, 21);">GitHub</a></p><p class="mbr-contacts__text"><a href="https://www.linkedin.com/in/johnalsonentuna/" class="text-gray" target="_blank">LinkedIn</a></p><p class="mbr-contacts__text"><a href="https://alsonentuna.blogspot.com/" class="text-gray" target="_blank">Legacy Site</a><br><br></p><ul class="mbr-contacts__list"><li><br></li></ul></div>
+                    <div class="col-sm-4">
+                        <p class="mbr-contacts__text">
+                            <strong>LINKS</strong>
+                        </p>
+                        <p class="mbr-contacts__text">
+                            <a href="https://github.com/AlsonEntuna" class="text-gray" target="_blank" style="background-color: rgb(12, 43, 21);">GitHub
+                            </a>
+                        </p>
+                            <p class="mbr-contacts__text">
+                                <a href="https://www.linkedin.com/in/johnalsonentuna/" class="text-gray" target="_blank">LinkedIn</a>
+                            </p>
+                            <p class="mbr-contacts__text"><a href="https://alsonentuna.blogspot.com/" class="text-gray" target="_blank">Legacy Site</a>
+                                <br><br>
+                            </p>
+                            <ul class="mbr-contacts__list">
+                            <li>
+                                <br>
+                            </li>
+                            </ul>
+                        </div>
                 </div>
             </div>
         </div>
@@ -287,6 +306,21 @@
     
     <div class="mbr-section__container container">
         <div class="mbr-footer mbr-footer--wysiwyg row" style="padding-top: 36.9px; padding-bottom: 36.9px;">
+            <div id="donate-button-container" class="col-sm-12">
+                <div id="donate-button"></div>
+                <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+                <script>
+                    PayPal.Donation.Button({
+                    env:'production',
+                    hosted_button_id:'A2EJ7MEJ3QSPL',
+                    image: {
+                    src:'https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif',
+                    alt:'Donate with PayPal button',
+                    title:'PayPal - The safer, easier way to pay online!',
+                    }
+                    }).render('#donate-button');
+                </script>
+            </div>
             <div class="col-sm-12">
                 <p class="mbr-footer__copyright">2023 Alson Entuna</p>
             </div>
