@@ -2415,7 +2415,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo2-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9477-1400x1050.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3503,7 +3503,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo1-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9535-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
