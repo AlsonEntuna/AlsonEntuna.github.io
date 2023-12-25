@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -2415,7 +2415,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-9477-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_2183(1)-1400x1869.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3412,7 +3412,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/christmas-header-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-7033-2000x1200.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3503,7 +3503,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-9535-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_4179(1)-1400x1867.png",
               "link": "",
               "alt": "",
               "title": "",
