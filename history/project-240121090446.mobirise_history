@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -78,7 +78,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2023-a4-1-1400x1980.png",
+              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2023-a4-1400x1980.png",
               "link": "https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ",
               "alt": "",
               "linkInNewWindow": true
@@ -3081,7 +3081,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2024 Alson Entuna",
+          "text": "2023 Alson Entuna",
           "_anchor": "footer1-2",
           "_sourceTheme": "default",
           "_styles": {
@@ -3745,7 +3745,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2024 Alson Entuna",
+          "text": "2023 Alson Entuna",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
@@ -4639,7 +4639,7 @@
             }
           },
           "title1": "C#",
-          "caption1": "I decided to push through C# because I still want to enjoy all the tool it provides and so I could also learn more about the new version of it. It's a pretty easy language to learn if you come from C-based languages like C/C++ or Java.<br><br>",
+          "caption1": "I decided to push through C# because I still want to enjoy all the tool it provides and so I could also learn more about the new version of it. It's a pretty easy language to learn if you come from C-based languages like C/C++ or Java.<br><br>There are tons of tutorials online and it's really easy to grasp as a beginner. I highly recommend this if you want speed and getting away with C++.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -5098,7 +5098,7 @@
           },
           "title": "Check it out on GitHub",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://github.com/AlsonEntuna/ExpenseTracker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GitHub Repository</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://github.com/AlsonEntuna/ExpenseTracker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GitHub Repository</a>",
           "_tags": [
             "Theme"
           ],
