@@ -24,7 +24,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 134,
+    "uniqCompNum": 131,
     "mbrsiteDomain": "lo3d9sxnkl",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -1800,8 +1800,8 @@
             "bgColor": "#4c6972",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/OmDYo7MbQxo?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=OmDYo7MbQxo",
+              "url": "https://www.youtube.com/embed/_9YYYVG0YQI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=_9YYYVG0YQI",
               "width": 1280,
               "height": 720
             },
@@ -1870,79 +1870,6 @@
           "_name": "content5",
           "_anchor": "content5-p",
           "_sourceTheme": "default"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "outside": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/skullandbones_credits-1400x744.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_sourceTheme": "default",
-          "_anchor": "image1-3n"
-        },
-        {
-          "text": "Skull and Bones is very special to me because this is my first project that I was involved in when I started my career in games back in 2017. Now in 2024, the world will finally be able to enjoy the very first game that made me who I am today.&nbsp;",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_sourceTheme": "default",
-          "_anchor": "content1-3p",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "21px"
-            }
-          }
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/4yJ5AEQhzRo?t=2325",
-              "autoplay": "on",
-              "loop": false
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_sourceTheme": "default",
-          "_anchor": "video1-3o"
         },
         {
           "_params": {
@@ -3627,22 +3554,8 @@
                 "overlayOpacity": "0.8"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/wheel-concept-art-update__1_-960x540.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Skull &amp; Bones",
-                "contentAlign": "left",
-                "text": "Worked on this new IP yet to be released and is one of the my first ever AAA Projects as a Technical Artist.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.ubisoft.com/en-gb/game/skull-and-bones\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Skull&amp;Bones</a>",
-                "overlay": true,
-                "alt": "",
-                "overlayOpacity": "0.8"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/expensetracker-app-1-1706x993.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -3664,20 +3577,6 @@
                 "contentAlign": "right",
                 "text": "But can it run Crysis?",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"crysis4.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> ",
-                "overlay": true,
-                "alt": "",
-                "overlayOpacity": "0.8"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ac-valhalla-1440x900.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Assassin's Creed Valhalla",
-                "contentAlign": "right",
-                "text": "Worked on this amazing franchise of Assassin's Creed as a Technical Artist under the Ubisoft Philippines studio.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"games-acvalhalla.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.ubisoft.com/en-gb/game/assassins-creed/valhalla\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AC Valhalla</a>",
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.8"
@@ -3706,6 +3605,34 @@
                 "contentAlign": "right",
                 "text": "An asset manager that has a 3D previewer and perforce integration",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"assetmanager.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> ",
+                "overlay": true,
+                "alt": "",
+                "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ac-valhalla-1440x900.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Assassin's Creed Valhalla",
+                "contentAlign": "right",
+                "text": "Worked on this amazing franchise of Assassin's Creed as a Technical Artist under the Ubisoft Philippines studio.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"games-acvalhalla.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.ubisoft.com/en-gb/game/assassins-creed/valhalla\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AC Valhalla</a>",
+                "overlay": true,
+                "alt": "",
+                "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/skullandbones-1920x1200.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Skull &amp; Bones",
+                "contentAlign": "left",
+                "text": "Worked on this new IP yet to be released and is one of the my first ever AAA Projects as a Technical Artist.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Skull&amp;Bones</a>",
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.8"
