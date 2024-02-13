@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -2787,7 +2787,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img_5771(2)-1400x2489.png",
+              "src": "@PROJECT_PATH@/assets/images/img_3197(1)-1400x1026.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -2805,7 +2805,7 @@
             }
           },
           "title": "Crytek GmbH",
-          "text": "<p>Took on another challenge as a Senior Technical Artist for Pipeline/Tools and currently is helping out with Crytek's Pipeline Team for all projects of the company. I can't post much as of yet but I'll definitely update this page once I have some exciting news to share!</p><p><br></p><p>Projects: CRYENGINE, Hunt: Showdown, Crysis4 (Working Title)</p>",
+          "text": "<p>Took on another challenge as a Senior Technical Artist for Pipeline/Tools and currently is helping out with Crytek's Pipeline Team for all projects of the company. I can't post much as of yet but I'll definitely update this page once I have some exciting news to share!</p>",
           "_tags": [
             "Theme"
           ],
