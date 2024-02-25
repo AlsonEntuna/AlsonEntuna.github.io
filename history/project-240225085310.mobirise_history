@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.8.4",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -223,7 +223,7 @@
             }
           },
           "title2": "Game Engines",
-          "caption2": "Working with different engines since I started in the field of Game Development.<br><br> It's my passion to learn more about how Game Engines work and the tech behind their architecture.<br><br>These include CryEngine, Unreal Engine 4, Unity, Cocos2dx, Construct3, and of course our own proprietary game engine Anvil.",
+          "caption2": "Working with different engines since I started in the field of Game Development.<br><br> It's my passion to learn more about how Game Engines work and the tech behind their architecture.<br><br>These include CryEngine V, Unreal Engine 4, Unity, Cocos2dx, Construct3, and of course our own proprietary game engine Anvil.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1775,7 +1775,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2024 Alson Entuna",
+          "text": "2023 Alson Entuna",
           "_anchor": "footer1-e",
           "_sourceTheme": "default",
           "_styles": {
@@ -1901,7 +1901,7 @@
           "_anchor": "image1-3n"
         },
         {
-          "text": "<p>Skull and Bones is very special to me because this is my first project that I was involved in when I started my career in games back in 2017. </p><p><br></p><p>Although my time was short at Skull and Bones and I was not able to be on its ship when it sailed to release, I'm forever grateful and honored that this game is the first AAA project I've ever worked on my whole entire career!</p><p><br></p><p>Now in 2024, the world will finally be able to enjoy the very first game that made me who I am today.&nbsp;</p>",
+          "text": "Skull and Bones is very special to me because this is my first project that I was involved in when I started my career in games back in 2017. Now in 2024, the world will finally be able to enjoy the very first game that made me who I am today.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -1950,7 +1950,7 @@
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": true,
+            "showCaptions": false,
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1991,8 +1991,8 @@
               "size": 0
             }
           },
-          "title1": "ObjectBank Assets<br>",
-          "caption1": "Handling various types of assets mainly in the Ship Building area of the game where we did a bunch of ship parts and cosmetics.",
+          "title1": "Meshes",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -2014,8 +2014,8 @@
               "size": 0
             }
           },
-          "title2": "Tools - DCC / Engine",
-          "caption2": "Developed tools inside 3ds Max using Maxscript to aid artists in checking for errors on their meshes. Was also the author of a reusable mesh part system where artists can share different types of meshes throughout the whole project.<br><br>Later on, I moved to engine tools where I wrote a lot of C# and WPF.<br><br>I later on went on a mission in Skull and Bones, I was assigned to Assassin's Creed during this time, to port over the tools I made to the new Anvil Engine.",
+          "title2": "Tools",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -2038,7 +2038,7 @@
             }
           },
           "title3": "Optimization",
-          "caption3": "Budget checking in line of the game's budgets for the assets especially the ships cosmetics.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2061,7 +2061,7 @@
             }
           },
           "title4": "Pipelines &amp; Workflows",
-          "caption4": "Developed an art asset pipeline together with QA to provide top quality assets to the lead studio that is up until now, is still being utilized.<br><br>Understood what the studio needs in terms of technical knowledge when working with the Anvil Game Engine.",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
