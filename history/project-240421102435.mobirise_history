@@ -24,7 +24,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 135,
+    "uniqCompNum": 134,
     "mbrsiteDomain": "lo3d9sxnkl",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -2512,19 +2512,13 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "color": "#ffffff"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "headerAlign": "left",
@@ -2553,8 +2547,8 @@
             },
             ".mbr-article P": {
               "text-align": "left",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
             }
           },
           "_params": {
@@ -2580,7 +2574,7 @@
             "overlayOpacity": 0.2
           },
           "title": "A little thing about me..",
-          "text": "<p>Hi I'm John Alson Entuna! People call me Alson because John is common haha!. Anyways, I'm currently a Senior Technical Artist - Pipeline/Tools working for Crytek GmbH. Previously work for Ubisoft Philippines as a Technical Artist. </p><p><br></p><p>I went on AAA Game Development as soon as I finished my degree in Game Development. I worked with games such as Skull &amp; Bones and Assassin's Creed Valhalla as a Technical Artist specializing in Tools and Pipeline. I love to deconstruct game engines and understand how they work so I could better improve the things that our team needs to be efficient and produce the best quality experiences for our players.</p><p><br></p><p>I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.<br></p><p> \n</p><p><br></p><p>I love to make games especially when games have wonderful meanings that affect a person. I am a programmer and as well as a Technical Artist.\n</p><p> \n</p><p><br></p><p>Not only do I love to code and do 3D things but also I love to play games. I'm a third-person kind of guy wherein I love to look at my character every time I play a game. Action and Story-based games are my favorites!\n</p><p><br></p><p>Right now, the experience I have with AAA Game Development, made me realize a whole new focus that I wanted to pursue in games; and that’s Tools &amp; Pipeline. I developed a love for creating tools and pipelines/workflows for the team because of the constant challenges and problems that come on a day-to-day basis in development. Tools also had a great impact on me because I have this sense of accomplishment whenever I see teams benefit from the things I developed to make them more efficient and speed up tasks.<br></p><p><br></p><p>\n</p><p>Here are the top 10 of my favorite games of all time</p><p>1. It Takes Two</p><p>2. Hogwarts Legacy</p><p>3. Assassin's Creed Syndicate</p><p>4. Marvel's Spider-Man 2</p><p>5. The Last of Us Part I</p><p>6. Ryse: Son of Rome</p><p>7. Battlefield 1\n</p><p>8. Hunt: Showdown</p><p>9. Call of Duty Modern Warfare</p><p>10. Brothers - A Tale of Two Sons (Remake)</p><p>\n</p><p>\n</p>",
+          "text": "<p>Hi I'm John Alson Entuna! People call me Alson because John is common haha!. Anyways, I'm currently a Senior Technical Artist - Pipeline/Tools working for Crytek GmbH. Previously work for Ubisoft Philippines as a Technical Artist. </p><p><br></p><p>I went on AAA Game Development as soon as I finished my degree in Game Development. I worked with games such as Skull &amp; Bones and Assassin's Creed Valhalla as a Technical Artist specializing in Tools and Pipeline. I love to deconstruct game engines and understand how they work so I could better improve the things that our team needs to be efficient and produce the best quality experiences for our players.</p><p><br></p><p>I'm a graduate of De La Salle - College of Saint Benilde who took up BS Information Technology with Specialization in Game Design and Development and a proud product of Saint Joseph School - La Salle Bacolod.<br></p><p> \n</p><p><br></p><p>I love to make games especially when games have wonderful meanings that affect a person. I am a programmer and as well as a Technical Artist.\n</p><p> \n</p><p><br></p><p>Not only do I love to code and do 3D things but also I love to play games. I'm a third-person kind of guy wherein I love to look at my character every time I play a game. Action and Story-based games are my favorites!\n</p><p><br></p><p>Right now, the experience I have with AAA Game Development, made me realize a whole new focus that I wanted to pursue in games; and that’s Tools &amp; Pipeline. I developed a love for creating tools and pipelines/workflows for the team because of the constant challenges and problems that come on a day-to-day basis in development. Tools also had a great impact on me because I have this sense of accomplishment whenever I see teams benefit from the things I developed to make them more efficient and speed up tasks.<br></p><p><br></p><p>\n</p><p>Here are the top 10 of my favorite games of all time</p><p>1. Assassin's Creed Syndicate</p><p>2. Tom Clancy's - The Division</p><p>3. Marvel's Spider-Man 2</p><p>4. The Last of Us Part I</p><p>\n</p><p>5. DmC Devil May Cry\n</p><p>6. Ryse: Son of Rome</p><p>7. Battlefield 1\n</p><p>8. Hunt: Showdown</p><p>9. Call of Duty Modern Warfare</p><p>10. Brothers - A Tale of Two Sons</p><p>\n</p><p>\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -2653,7 +2647,7 @@
               "color": "#252525",
               "font-family": "'Poppins', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "30px"
             },
             ".mbr-article": {
@@ -2679,7 +2673,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Work Experiences",
+          "title": "My Work Experiences",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
@@ -2735,7 +2729,7 @@
               "size": 0
             }
           },
-          "title": "Senior Technical Artist - Tools &amp; Pipeline(CRYENGINE)",
+          "title": "Senior Technical Artist - Tools &amp; Pipeline",
           "text": "2021 - Present",
           "_tags": [
             "Theme"
@@ -2811,7 +2805,7 @@
             }
           },
           "title": "Crytek GmbH",
-          "text": "<p>Took on another challenge as a Senior Technical Artist for Pipeline/Tools and currently is helping out with Crytek's Pipeline Team for all projects of the company.&nbsp;</p><p><br></p><p>Currently in the CRYENGINE team working on tools and plugins for the Game Teams.</p><p><br></p><p>Projects: CRYENGINE, Hunt: Showdown, Crysis4 (Working Title)</p>",
+          "text": "<p>Took on another challenge as a Senior Technical Artist for Pipeline/Tools and currently is helping out with Crytek's Pipeline Team for all projects of the company.&nbsp;</p><p><br></p><p>Currently in the CRYENGINE team working on tools/plugins for the Game Teams.</p><p><br></p><p>Projects: CRYENGINE, Hunt: Showdown, Crysis4 (Working Title)</p>",
           "_tags": [
             "Theme"
           ],
@@ -2943,7 +2937,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-9622-1400x2494.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/img-673-1400x2007.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3003,8 +2997,8 @@
           "_anchor": "header3-s",
           "_styles": {
             "H3": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
             },
             "P": {
               "text-align": "left",
@@ -3012,8 +3006,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
             }
           },
           "_sourceTheme": "default"
@@ -3507,7 +3501,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Alson Entuna",
-          "text": "Senior Technical Artist Pipelines and Tools (CRYENGINE)<br>",
+          "text": "Senior Technical Artist (Pipeline/Tools)",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -3857,7 +3851,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=bV56-FEGtx0",
+              "src": "https://www.youtube.com/watch?v=rrgbk8ngB-8",
               "autoplay": "on",
               "loop": "on"
             }
@@ -4084,60 +4078,6 @@
           "_name": "header4",
           "_anchor": "header4-2e",
           "_sourceTheme": "default"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/cryengine-logo-vertical-white-2000x1125.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#0c2b15",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "CRYENGINE Team",
-          "text": "<p>Right now in 2024, we moved fully to the Engine team working on improving various different tools inside CryEngine. </p><p>I've been working inside the engine to provide more tools and improvements to the game teams on all projects in the company.</p><p>I'll post more updates soon once we have something to share publicly...</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_sourceTheme": "default",
-          "_anchor": "content5-3q"
         },
         {
           "_styles": {
