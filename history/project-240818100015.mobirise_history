@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "games-huntshowdown.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.9.17",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -3919,7 +3919,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=16vBsmpcxh4",
+              "src": "https://www.youtube.com/watch?v=3Nrpz5OFPNg&t=1s&ab_channel=Hunt%3AShowdown",
               "autoplay": "on",
               "loop": "on"
             }
@@ -3980,7 +3980,7 @@
             }
           },
           "title1": "Tools",
-          "caption1": "Creating tools for multiple disciplines to aid art production. Using various languages and UI frameworks such as C++, C#, Python, Maxscript, QT, and WPF.<br><br>Worked with Maya, 3ds Max, Standalone Applications and CRYENGINE.",
+          "caption1": "Creating tools for multiple disciplines to aid art production. Using various languages and UI frameworks such as Python, Maxscript, MEL, C#, C++, QT, and WPF.<br><br>Worked with Maya, 3ds Max, Standalone Applications and CRYENGINE.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -4049,7 +4049,7 @@
             }
           },
           "title4": "CRYENGINE &amp; Plugins",
-          "caption4": "Working inside the CRYENGINE source-code (C++) to add in more engine functionality, objects, and improvements. Communicating and collaborating with programmers to bring new features, bug fixes, and improvements to the current generation of CRYENGINE",
+          "caption4": "Working inside the CRYENGINE source-code (C++) to add in more engine functionality, objects, and improvements. Communicating and collaborating with programmers to bring new features and improvements to the current generation of CRYENGINE",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
