@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "games-huntshowdown.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.9.17",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -2548,7 +2548,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-5516-1400x1867.png",
+              "src": "@PROJECT_PATH@/assets/images/img-9931-1400x931.png",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3507,7 +3507,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-7204-2000x2667.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-6339-2000x2667.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3598,7 +3598,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bcaf65e7-0b0a-4832-aa34-d52b7421dae5-1400x1864.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9932-1400x932.png",
               "link": "",
               "alt": "",
               "title": "",
