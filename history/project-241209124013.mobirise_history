@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "5.0.29",
+    "versionPublish": "5.9.17",
     "name": "AlsonEntuna - Senior Technical Artist",
     "theme": {
       "name": "default",
@@ -2739,7 +2739,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "My Journey...",
+          "title": "Work Experiences",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
@@ -2951,7 +2951,7 @@
             }
           },
           "title": "Crytek GmbH",
-          "text": "<p>Took on another challenge as a Senior Technical Artist for Pipeline/Tools and currently is helping out with Crytek's Pipeline Team for all projects of the company.&nbsp;</p><p><br></p><p>Currently in the CRYENGINE team working on tools and plugins for the Game Teams. Some tools and engine plugins I've developed over the years are: Level Art &amp; Design Tools, Asset Tools, Texture Editor, Asset Management, Screenshot Tooling, LOD Generators, etc...</p><p><br></p><p>Projects: CRYENGINE, Hunt: Showdown 1896</p>",
+          "text": "<p>Took on another challenge as a Senior Technical Artist for Pipeline/Tools and currently is helping out with Crytek's Pipeline Team for all projects of the company.&nbsp;</p><p><br></p><p>Currently in the CRYENGINE team working on tools and plugins for the Game Teams. Some tools and engine plugins I've developed over the years are: Level Tools, Asset Tools, Texture Editor, Asset Management, Screenshot Tooling, LOD Generators, etc...</p><p><br></p><p>Projects: CRYENGINE, Hunt: Showdown 1896</p>",
           "_tags": [
             "Theme"
           ],
