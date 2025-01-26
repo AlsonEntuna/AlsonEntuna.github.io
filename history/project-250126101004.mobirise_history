@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "5.9.17",
+    "versionPublish": "5.9.18",
     "name": "AlsonEntuna - Senior Technical Artist",
     "theme": {
       "name": "default",
@@ -651,7 +651,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_anchor": "footer1-7",
           "_sourceTheme": "default",
           "_styles": {
@@ -744,7 +744,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_anchor": "footer1-b",
           "_sourceTheme": "default",
           "_styles": {
@@ -1775,7 +1775,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_anchor": "footer1-e",
           "_sourceTheme": "default",
           "_styles": {
@@ -2440,7 +2440,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_anchor": "footer1-h",
           "_sourceTheme": "default",
           "_styles": {
@@ -2796,7 +2796,7 @@
             }
           },
           "title": "Acting Lead Technical Artist",
-          "text": "<p>October 2024 - Present</p><p>I transitioned to a leadership role to lead a team of Technical Artists of different expertise. Working together with different engine departments and reporting to Crytek's CTO for ensuring the team is aligned with the company's technical vision for next generation of tooling</p><p>I'll add more details soon.</p>",
+          "text": "<p>October 2024 - Present</p><p>I transitioned to a leadership role. I'll add more details soon.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2807,8 +2807,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-header__subtext": {
-              "color": "#ffffff",
-              "text-align": "left"
+              "color": "#ffffff"
             },
             ".mbr-article": {
               "color": "#ffffff"
@@ -2983,7 +2982,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"games-huntshowdown.html\" data-toolbar=\"-mbrBtnMove\">Hunt: Showdown 1896</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.cryengine.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CRYENGINE</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"games-huntshowdown.html\" data-toolbar=\"-mbrBtnMove\">Hunt: Showdown 1896</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-28",
           "_sourceTheme": "default"
@@ -3257,7 +3256,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_anchor": "footer1-2",
           "_sourceTheme": "default",
           "_styles": {
@@ -3497,7 +3496,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_anchor": "footer1-y",
           "_sourceTheme": "default",
           "_styles": {
@@ -3604,7 +3603,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Alson Entuna",
-          "text": "Acting Lead Technical Artist Pipeline &amp; Tools<br>",
+          "text": "Senior Technical Artist Pipelines &amp; Tools<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -3907,7 +3906,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
@@ -4392,7 +4391,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_anchor": "footer1-2a",
           "_sourceTheme": "default",
           "_styles": {
@@ -4856,7 +4855,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_sourceTheme": "default",
           "_anchor": "footer1-2j",
           "_styles": {
@@ -5532,7 +5531,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_sourceTheme": "default",
           "_anchor": "footer1-2u",
           "_styles": {
@@ -5979,7 +5978,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2024 Alson Entuna",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
