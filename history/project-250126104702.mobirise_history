@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "aboutme.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "5.9.18",
+    "versionPublish": "5.9.17",
     "name": "AlsonEntuna - Senior Technical Artist",
     "theme": {
       "name": "default",
@@ -24,7 +24,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 141,
+    "uniqCompNum": 140,
     "mbrsiteDomain": "lo3d9sxnkl",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -2796,7 +2796,7 @@
             }
           },
           "title": "Acting Lead Technical Artist",
-          "text": "October 2024 - Present\n<br><br><div>\n</div><div>I transitioned to a leadership role to lead a team of Technical Artists of different expertise. Working together with different engine departments and reporting to Crytek's CTO for ensuring the team is aligned with the company's technical vision for next generation of tooling\n</div><div>I'll add more details soon.</div><div>\n</div>",
+          "text": "<p>October 2024 - Present</p><p>I transitioned to a leadership role to lead a team of Technical Artists of different expertise. Working together with different engine departments and reporting to Crytek's CTO for ensuring the team is aligned with the company's technical vision for next generation of tooling</p><p>I'll add more details soon.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2808,28 +2808,27 @@
             },
             ".mbr-header__subtext": {
               "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+              "text-align": "left"
             },
             ".mbr-article": {
-              "color": "#ffffff",
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left"
             },
             ".mbr-header__subtext SPAN": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-article DIV": {
-              "text-align": "left"
             }
           },
           "headerAlign": "left",
           "meta": "<span style=\"font-style: normal;\">Crytek GmbH - Frankfurt, Germany</span>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3w",
-          "_sourceTheme": "default"
+          "_sourceTheme": "default",
+          "_anchor": "msg-box4-3v"
         },
         {
           "_inherit": "msg-box5",
