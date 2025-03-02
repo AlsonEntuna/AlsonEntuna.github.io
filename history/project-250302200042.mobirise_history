@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "5.9.18",
     "name": "AlsonEntuna - Senior Technical Artist",
@@ -9,13 +9,13 @@
       "title": "AlsonEntuna-Portfolio",
       "styling": {},
       "additionalSetColors": [
-        "#252525",
         "#21773a",
         "#3c3c3c",
         "#9c9c9c",
         "#0c2b15",
         "#28613a",
-        "#193b23"
+        "#193b23",
+        "#1e453e"
       ]
     },
     "favicon": false,
@@ -3162,14 +3162,12 @@
           "_styles": {
             "H3": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "48px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             "P": {
               "text-align": "left",
               "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#3c3c3c"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             "SPAN": {
               "font-family": "'Oxygen', sans-serif",
@@ -3755,7 +3753,7 @@
                 "title": "Personal Project: ExpenseTracker",
                 "contentAlign": "right",
                 "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments in different currencies.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"expense-tracker.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/AlsonEntuna/ExpenseTracker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GitHub</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"expense-tracker.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.huntshowdown.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GitHub</a>",
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.9"
@@ -3783,7 +3781,7 @@
                 "title": "My GitHub Page",
                 "contentAlign": "right",
                 "text": "Explore some of the personal projects and tools that I've been making during my free time.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"github-tools.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/AlsonEntuna\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GitHub</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"github-tools.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.huntshowdown.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GitHub</a>",
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.8"
