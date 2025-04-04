@@ -9,13 +9,13 @@
       "title": "AlsonEntuna-Portfolio",
       "styling": {},
       "additionalSetColors": [
-        "#022217",
-        "#002c1d",
         "#252525",
         "#21773a",
         "#3c3c3c",
         "#9c9c9c",
-        "#0c2b15"
+        "#0c2b15",
+        "#28613a",
+        "#193b23"
       ]
     },
     "favicon": false,
@@ -24,7 +24,7 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 142,
+    "uniqCompNum": 141,
     "mbrsiteDomain": "lo3d9sxnkl",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -56,7 +56,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -82,13 +82,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -604,14 +604,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -646,7 +646,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -703,13 +703,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -739,7 +739,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1663,14 +1663,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1683,10 +1683,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -1737,13 +1734,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -1773,7 +1770,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -2183,14 +2180,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2203,10 +2200,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -2257,13 +2251,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -2403,14 +2397,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2423,10 +2417,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -2444,7 +2435,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -2475,7 +2466,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -2501,13 +2492,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -2765,86 +2756,6 @@
             "showMeta": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#28613a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/crytek_logo_color_white-1400x425.png",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Lead Technical Artist : Tools",
-          "text": "April 2025 - Present",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "left"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff",
-              "font-family": "'Poppins', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
-            },
-            ".mbr-article": {
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-header__subtext SPAN": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "<span style=\"font-style: normal;\">Crytek GmbH - Frankfurt, Germany</span>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-3x",
-          "_sourceTheme": "default"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -2885,7 +2796,7 @@
             }
           },
           "title": "Acting Lead Technical Artist",
-          "text": "October 2024 - April 2025<br><br><div>\n</div><div>I transitioned to a leadership role to lead a team of Technical Artists of different expertise. Working together with different engine departments and reporting to Crytek's CTO for ensuring the team is aligned with the company's technical vision for next generation of tooling\n</div><div>I'll add more details soon.</div><div>\n</div>",
+          "text": "October 2024 - Present\n<br><br><div>\n</div><div>I transitioned to a leadership role to lead a team of Technical Artists of different expertise. Working together with different engine departments and reporting to Crytek's CTO for ensuring the team is aligned with the company's technical vision for next generation of tooling\n</div><div>I'll add more details soon.</div><div>\n</div>",
           "_tags": [
             "Theme"
           ],
@@ -3306,14 +3217,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3326,10 +3237,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -3347,7 +3255,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -3404,13 +3312,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -3549,14 +3457,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -3569,10 +3477,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -3590,7 +3495,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -3624,7 +3529,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -3651,13 +3556,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -3702,7 +3607,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Alson Entuna",
-          "text": "Lead Technical Artist Pipeline &amp; Tools<br>",
+          "text": "Acting Lead Technical Artist Pipeline &amp; Tools<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -3959,14 +3864,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -4000,7 +3905,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -4030,7 +3935,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -4056,13 +3961,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -4485,7 +4390,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -4523,14 +4428,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -4543,10 +4448,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -4571,7 +4473,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -4597,13 +4499,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -4952,7 +4854,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -5314,14 +5216,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -5334,10 +5236,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -5388,13 +5287,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -5631,7 +5530,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -5871,14 +5770,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -5891,10 +5790,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
@@ -5919,7 +5815,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -5945,13 +5841,13 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#002c1d",
+            "color": "#0c2b15",
             "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/cube-molecule-256-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "",
@@ -6081,7 +5977,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#022217",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -6119,14 +6015,14 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#002c1d",
+            "bgColor": "#0c2b15",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -6139,10 +6035,7 @@
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "classPrefix": "mdi-",
               "link": "https://mobirise.com",
-              "size": 0,
-              "linkInNewWindow": false,
-              "name": "globe-2",
-              "family": "Mobirise2"
+              "size": 0
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Germany<br>",
