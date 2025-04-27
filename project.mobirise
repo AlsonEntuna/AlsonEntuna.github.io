@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "5.9.18",
-    "name": "AlsonEntuna - Senior Technical Artist",
+    "versionPublish": "6.0.1",
+    "name": "AlsonEntuna - Lead Technical Artist",
     "theme": {
       "name": "default",
       "title": "AlsonEntuna-Portfolio",
@@ -25,7 +25,7 @@
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 142,
-    "mbrsiteDomain": "lo3d9sxnkl",
+    "mbrsiteDomain": "syy3wbnaiu",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -138,8 +138,8 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-2024-a4-1400x1979.jpg",
-              "link": "https://1drv.ms/b/s!AntNKRAkIDXBi4cyWcrrHUd5PNKpsQ",
+              "src": "@PROJECT_PATH@/assets/images/resume-alsonentuna-a4-1400x1979.png",
+              "link": "https://1drv.ms/b/c/c135202410294d7b/EV0TvX87UBFPqlx9sPmpJGoBob1h72jdPV9PGIfcx7dCbg?e=6DJykg",
               "alt": "",
               "linkInNewWindow": true
             },
@@ -156,7 +156,7 @@
             }
           },
           "title": "Resume",
-          "text": "<p>View and download my resume using the link below...</p>",
+          "text": "<p>View and download my resume using the link below.</p>",
           "_tags": [
             "Theme"
           ],
@@ -186,7 +186,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/s!AntNKRAkIDXBi4hWWpxUdJ7q5gvfDQ?e=5Ledyt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://1drv.ms/b/c/c135202410294d7b/EV0TvX87UBFPqlx9sPmpJGoBob1h72jdPV9PGIfcx7dCbg?e=6DJykg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-t",
           "_sourceTheme": "default"
@@ -3378,7 +3378,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#0c2b15"
+              "background": "#002c1d"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -3686,7 +3686,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-6339-2000x2667.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/chippy-frhling.png-1-2000x2667.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
