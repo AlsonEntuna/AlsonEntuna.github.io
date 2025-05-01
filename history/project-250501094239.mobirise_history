@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "6.0.1",
-    "name": "AlsonEntuna - Lead Technical Artist",
+    "name": "AlsonEntuna - Senior Technical Artist",
     "theme": {
       "name": "default",
       "title": "AlsonEntuna-Portfolio",
@@ -25,7 +25,7 @@
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 142,
-    "mbrsiteDomain": "iprkhgrhef",
+    "mbrsiteDomain": "syy3wbnaiu",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -45,7 +45,7 @@
     "resume.html": {
       "settings": {
         "meta_descr": "Alson Entuna - Resume",
-        "title": "Alson Entuna - Resume",
+        "title": "Resume",
         "order": 6
       },
       "components": [
@@ -666,7 +666,7 @@
     "games-acvalhalla.html": {
       "settings": {
         "meta_descr": "Alson Entuna - Assassin's Creed Valhalla",
-        "title": "Assassin's Creed Valhalla",
+        "title": "AssassinsCreedValhalla",
         "order": 5
       },
       "components": [
@@ -677,7 +677,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -1711,7 +1711,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -2231,7 +2231,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -4560,7 +4560,7 @@
     "expense-tracker.html": {
       "settings": {
         "meta_descr": "Alson Entuna - Expense Tracker",
-        "title": "Expense Tracker",
+        "title": "Personal Project: Expense Tracker",
         "order": 1
       },
       "components": [
@@ -5362,7 +5362,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#002c1d"
+              "background": "#0c2b15"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -5908,7 +5908,7 @@
     "assetmanager.html": {
       "settings": {
         "meta_descr": "Alson Entuna - Asset Manager",
-        "title": "Asset Manager",
+        "title": "Personal Project: Asset Manager",
         "order": 1
       },
       "components": [
