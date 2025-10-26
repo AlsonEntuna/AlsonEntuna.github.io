@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "6.0.1",
     "name": "AlsonEntuna - Pipeline & Tools",
@@ -2574,7 +2574,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-9931-1400x931.png",
+              "src": "@PROJECT_PATH@/assets/images/1n5a0793-1400x933.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -3703,7 +3703,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chippy-frhling.png-2-2000x2667.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2347.png-1-2000x3556.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -3794,7 +3794,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-9932-1400x932.png",
+              "src": "@PROJECT_PATH@/assets/images/1n5a0364-1400x1501.jpg",
               "link": "",
               "alt": "",
               "title": "",
