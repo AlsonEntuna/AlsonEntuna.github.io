@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "photography-entuna.html",
     "versionFirst": "2.11.1",
     "versionPublish": "6.0.1",
-    "name": "AlsonEntuna - Pipeline & Tools",
+    "name": "AlsonEntuna - Senior Technical Artist",
     "theme": {
       "name": "default",
       "title": "AlsonEntuna-Portfolio",
@@ -23,9 +23,9 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "imageResize": true,
-    "uniqCompNum": 142,
-    "mbrsiteDomain": "ojiiorin5x",
+    "imageResize": false,
+    "uniqCompNum": 148,
+    "mbrsiteDomain": "n7sdnoihcz",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -60,7 +60,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Resume",
         "title": "Alson Entuna - Resume",
-        "order": 6
+        "order": "10"
       },
       "components": [
         {
@@ -681,7 +681,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Assassin's Creed Valhalla",
         "title": "Assassin's Creed Valhalla",
-        "order": 5
+        "order": "9"
       },
       "components": [
         {
@@ -1715,7 +1715,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Skull and Bones",
         "title": "Skull and Bones",
-        "order": 4
+        "order": "8"
       },
       "components": [
         {
@@ -2238,7 +2238,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Others",
         "title": "Others",
-        "order": 3
+        "order": "7"
       },
       "components": [
         {
@@ -2482,7 +2482,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - About Me",
         "title": "About Me",
-        "order": 7
+        "order": "11"
       },
       "components": [
         {
@@ -3385,7 +3385,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Contact",
         "title": "Contact",
-        "order": 2
+        "order": "6"
       },
       "components": [
         {
@@ -3690,7 +3690,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alson Entuna</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page11.html\">Photography</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
           "_sourceTheme": "default"
         },
@@ -3831,8 +3831,22 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/hunt-showdown-1640x720.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maintal-2946.jpg-2000x1333.jpg",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Photography",
+                "contentAlign": "right",
+                "text": "Recently picked up the camera and finally stepped out from the world of Phones and into the world of Cameras. Capturing moments with my Family.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"photography-entuna.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See</a> ",
+                "overlay": true,
+                "alt": "",
+                "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hunt-showdown-1640x720.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -4022,7 +4036,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2026 Alson Entuna",
           "_sourceTheme": "default",
           "_styles": {
             "P": {
@@ -4037,7 +4051,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Hunt: Showdown 1896",
         "title": "Hunt: Showdown 1896",
-        "order": 1
+        "order": "2"
       },
       "components": [
         {
@@ -4578,7 +4592,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Expense Tracker",
         "title": "Expense Tracker",
-        "order": 1
+        "order": "3"
       },
       "components": [
         {
@@ -5369,7 +5383,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - GitHub: Tools and Projects",
         "title": "GitHub: Tools and Projects",
-        "order": 1
+        "order": "4"
       },
       "components": [
         {
@@ -5926,7 +5940,7 @@
       "settings": {
         "meta_descr": "Alson Entuna - Asset Manager",
         "title": "Asset Manager",
-        "order": 1
+        "order": "5"
       },
       "components": [
         {
@@ -6167,6 +6181,280 @@
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
           "_sourceTheme": "default",
           "_anchor": "contacts1-3e"
+        }
+      ]
+    },
+    "photography-entuna.html": {
+      "settings": {
+        "meta_descr": "Photos taken to preserve memories of my Family.",
+        "title": "Photography",
+        "order": "1"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#002c1d"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": ".mbr-section__container {\n text-align: center;\n width: 100%;\n}\n\n.btn {\n  \n    background: none;/*this for transparent button*/\n    border: 1px solid #f7da64;/* this is for button border*/\n    color: #f7da64;/* this is text colour*/\n}\na:hover {\nbackground-color: #f7da64;/* button hover colour*/\ncolor: #ffffff;/* text hover colour*/\n}\n\n.text-white \n\n{\n\ncolor: #FFFF00;/*change colour to your choice*/\n\n}\n.btn  {\nborder-radius: 12px;\n  }  \n",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#002c1d",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white text-primary\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alson Entuna</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"aboutme.html\">About</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page11.html\">Photography</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\">Resume</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume</a></li> ",
+          "_sourceTheme": "default",
+          "_anchor": "ext_menu-3y"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/italien_2026-2588-1400x933.jpeg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Arezzo, Italien 2026",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_sourceTheme": "default",
+          "_anchor": "image1-41"
+        },
+        {
+          "text": "We went to an amazing City in the Tuscany Region in Italy to visit a Friend and we were just amazed of how beautiful the City is. Here are some of the photos we took during our short trip. I'll make an album soon to share it with everybody...",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "default",
+          "_anchor": "content1-43",
+          "_styles": {
+            "DIV": {
+              "color": "#3c3c3c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2643-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2643-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2623-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2623-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2732-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2732-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2748-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2748-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2585-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2585-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2617-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2617-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2776-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2776-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/italien_2026-2778-2000x1333.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/italien-2026-2778-2000x1333-800x533.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_sourceTheme": "default",
+          "_anchor": "gallery1-42"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#cccccc",
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700",
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#002c1d",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/alson-logo-gr%C3%BCn-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "Mobirise2",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Germany / Deutschland<br>",
+          "text2": "<strong>Email</strong><br>alson.entuna@outlook.com<br><br><b>WhatsApp</b><b><br></b><a href=\"https://api.whatsapp.com/send/?phone=4917666108047\" class=\"text-primary\" target=\"_blank\">+49&nbsp;176&nbsp;66108047</a><br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"https://github.com/AlsonEntuna\" class=\"text-gray\" target=\"_blank\" style=\"background-color: rgb(12, 43, 21);\">GitHub</a></p><p class=\"mbr-contacts__text\"><a href=\"https://www.linkedin.com/in/johnalsonentuna/\" class=\"text-gray\" target=\"_blank\">LinkedIn</a></p><p class=\"mbr-contacts__text\"><a href=\"https://alsonentuna.blogspot.com/\" class=\"text-gray\" target=\"_blank\">Legacy Site</a><br><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>",
+          "_sourceTheme": "default",
+          "_anchor": "contacts1-3z"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#022217",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "2026 Alson Entuna",
+          "_sourceTheme": "default",
+          "_styles": {
+            "P": {
+              "font-family": "'Poppins', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Poppins:400,300,700"
+            }
+          },
+          "_anchor": "footer1-40"
         }
       ]
     }
