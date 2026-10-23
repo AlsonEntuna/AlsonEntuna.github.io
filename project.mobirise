@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "photography-entuna.html",
+    "currentPage": "expense-tracker.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "6.0.1",
+    "versionPublish": "6.1.12",
     "name": "AlsonEntuna - Senior Technical Artist",
     "theme": {
       "name": "default",
@@ -3832,17 +3832,31 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/maintal-2946.jpg-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Photography",
                 "contentAlign": "right",
-                "text": "Recently picked up the camera and finally stepped out from the world of Phones and into the world of Cameras. Capturing moments with my Family.",
+                "text": "Recently picked up the camera and finally stepped out of the world of Phones and into the world of Cameras. Capturing moments with my Family and traveling around Europe.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"photography-entuna.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See</a> ",
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/expensetracker-app.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Personal Project: ExpenseTracker",
+                "contentAlign": "right",
+                "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments in different currencies.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"expense-tracker.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/AlsonEntuna/ExpenseTracker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GitHub</a>",
+                "overlay": true,
+                "alt": "",
+                "overlayOpacity": "0.9"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hunt-showdown-1640x720.jpg",
@@ -3871,20 +3885,6 @@
                 "overlay": true,
                 "alt": "",
                 "overlayOpacity": "0.8"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/expensetracker-app-1704x961.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Personal Project: ExpenseTracker",
-                "contentAlign": "right",
-                "text": "A WPF Application that I'm creating because of my own needs based on my own experience on how to handle bills and payments in different currencies.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"expense-tracker.html\" data-toolbar=\"-mbrBtnMove\">Read more</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://github.com/AlsonEntuna/ExpenseTracker\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View on GitHub</a>",
-                "overlay": true,
-                "alt": "",
-                "overlayOpacity": "0.9"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ac-valhalla-1440x900.jpg",
@@ -4695,7 +4695,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/expensetracker-app-1400x790.png",
+              "src": "@PROJECT_PATH@/assets/images/expensetracker-app.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -4729,7 +4729,7 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/expensetracker-report-1638x496.png",
+                "image": "@PROJECT_PATH@/assets/images/expensetracker-report.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -4742,7 +4742,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/expensetracker-report_breakdownchart-1974x1041.png",
+                "image": "@PROJECT_PATH@/assets/images/expensetracker-report-breakdownchart.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -4755,8 +4755,8 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/piggybankwindow-1504x881.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/piggybankwindow.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -4769,7 +4769,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/expensetracker-app-1704x961.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -4988,7 +4988,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "2025 Alson Entuna",
+          "text": "2026 Alson Entuna",
           "_sourceTheme": "default",
           "_anchor": "footer1-2j",
           "_styles": {
@@ -5041,7 +5041,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.2
           },
-          "title": "Building my own .Net Libraries",
+          "title": "Building my own Libraries",
           "text": "<p>Trying to implement my own libraries from the ground up and trying to make them as useful for my future projects.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -5099,7 +5099,7 @@
             }
           },
           "title": "<a href=\"https://github.com/AlsonEntuna/ExpenseTracker/tree/develop/WPFWrappers\" class=\"text-success\" target=\"_blank\">ExpenseTracker.Wpf</a>",
-          "text": "<p>This is a library that contains mostly the things you need in WPF development like ViewModel, Styles, Resources, and Converters.</p><p>The goal of this library is to have as much resources and utilities to re-use within the application.<br></p><p><br></p><p>Simply use add the Resource.xaml to your resources and everything should be in like below:</p><p><i><br></i></p><p><i>&lt;ResourceDictionary Source=\"pack://application:,,,/ExpenseTracker.Wpf;component/Resources/Resources.xaml\" /&gt;</i></p>",
+          "text": "<p>This is a library that contains mostly the things you need in WPF development, like ViewModels, Styles, Resources, and Converters.</p><p>The goal of this library is to have as many resources and utilities to reuse within the application.</p>",
           "_tags": [
             "Theme"
           ],
@@ -5317,7 +5317,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://alsonentuna.notion.site/Expense-Tracker-Documentation-a3cf8c5dd56d44f1a26e7cd72ea1d154\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Documentation</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://alsonentuna.github.io/ExpenseTracker-Wiki/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Documentation</a>",
           "_name": "msg-box4",
           "_sourceTheme": "default",
           "_anchor": "msg-box4-3g"
