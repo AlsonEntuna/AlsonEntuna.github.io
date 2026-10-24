@@ -1,13 +1,24 @@
 # AlsonEntuna.github.io
-My personal Portfolio Website source repository.
+My personal portfolio website: [alsonentuna.github.io](https://alsonentuna.github.io/)
 
-## Development Setup
-When doing development, switch to the [develop](https://github.com/AlsonEntuna/AlsonEntuna.github.io/tree/develop) branch first then make sure to run the [dev-setup.bat](https://github.com/AlsonEntuna/AlsonEntuna.github.io/blob/develop/dev-setup.bat) first to initialize all the necessary environment variables and folders needed for the development
+Plain HTML and CSS, with no framework and no build step. GitHub Pages serves this repo as-is.
 
-## Deployment
-- Make sure to build the project first in mobirise, it should build the project into the `C:\dev\website-staging` folder for you to use in the second step.
-- To deploy, simply just switch to the [master](https://github.com/AlsonEntuna/AlsonEntuna.github.io/tree/master) branch and run the [deploy-website.bat](https://github.com/AlsonEntuna/AlsonEntuna.github.io/blob/master/deploy-website.bat). Once done, you can add it to your commit and deploy it on GitHub.
+## Structure
+- `*.html`: one file per page. The header and footer are repeated at the top and bottom of each page, so update them in every file when you change them.
+- `assets/css/site.css`: all styles. Colors, spacing and type sizes are variables at the top, with a dark theme below them.
+- `assets/js/site.js`: theme toggle, mobile menu, scroll reveal and gallery lightbox.
+- `assets/img/`: optimized WebP images used by the pages.
+- `tools/images.py`: image helper (see below).
 
+## Editing
+1. Edit the HTML/CSS.
+2. Preview locally: `python -m http.server 8000`, then open http://localhost:8000
+3. Commit and push to `master`. GitHub Pages deploys automatically.
 
-## URL
-You can visit the website here [AlsonEntuna-Website](https://alsonentuna.github.io/)
+## Adding images
+```
+pip install pillow
+python tools/images.py convert path/to/photo.jpg   # writes assets/img/photo.webp (+ photo-600.webp)
+python tools/images.py annotate                    # fills in width/height/srcset on <img> tags
+```
+Then reference it as `<img src="assets/img/photo.webp" alt="..." loading="lazy">`.
