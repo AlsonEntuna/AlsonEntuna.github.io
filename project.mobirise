@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "expense-tracker.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "6.1.12",
-    "name": "AlsonEntuna - Senior Technical Artist",
+    "versionPublish": "6.2.0",
+    "name": "AlsonEntuna - Pipeline & Tools",
     "theme": {
       "name": "default",
       "title": "AlsonEntuna-Portfolio",
@@ -25,7 +25,7 @@
     "siteFonts": [],
     "imageResize": false,
     "uniqCompNum": 148,
-    "mbrsiteDomain": "n7sdnoihcz",
+    "mbrsiteDomain": "rds8o8b9am",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -39,21 +39,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#ffffff",
-      "colorButton": "",
-      "rejectColor": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacityOverlay": "0",
-      "bgOpacity": "100",
-      "text": "We use cookies to give you the best experience as specified in the <a href='privacy.html'>cookie policy</a>. Rejecting cookies may make some features unavailable.",
-      "textButton": "ACCEPT",
-      "rejectText": "REJECT"
-    },
-    "cookiesAlertType": "2"
+    "cookiesAlert": false
   },
   "pages": {
     "resume.html": {
@@ -3703,7 +3689,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2347.png-1-2000x3556.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2721.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
