@@ -7,11 +7,14 @@
   const toggle = document.querySelector(".theme-toggle");
   if (toggle) {
     toggle.addEventListener("click", () => {
-      const current = root.dataset.theme ||
+      const current =
+        root.dataset.theme ||
         (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
       const next = current === "dark" ? "light" : "dark";
       root.dataset.theme = next;
-      try { localStorage.setItem("theme", next); } catch (e) {}
+      try {
+        localStorage.setItem("theme", next);
+      } catch (e) {}
     });
   }
 
@@ -28,11 +31,17 @@
   // Reveal sections as they scroll into view
   const items = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window) {
-    const io = new IntersectionObserver((entries) => {
-      entries.forEach((e) => {
-        if (e.isIntersecting) { e.target.classList.add("is-visible"); io.unobserve(e.target); }
-      });
-    }, { rootMargin: "0px 0px -8% 0px" });
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) {
+            e.target.classList.add("is-visible");
+            io.unobserve(e.target);
+          }
+        });
+      },
+      { rootMargin: "0px 0px -8% 0px" },
+    );
     items.forEach((el) => io.observe(el));
   } else {
     items.forEach((el) => el.classList.add("is-visible"));
@@ -52,11 +61,24 @@
       img.alt = t.querySelector("img").alt;
       cap.innerHTML = t.dataset.caption || "";
     };
-    thumbs.forEach((t, i) => t.addEventListener("click", () => { show(i); box.showModal(); }));
-    box.querySelector(".lightbox__prev").addEventListener("click", () => show(index - 1));
-    box.querySelector(".lightbox__next").addEventListener("click", () => show(index + 1));
-    box.querySelector(".lightbox__close").addEventListener("click", () => box.close());
-    box.addEventListener("click", (e) => { if (e.target === box) box.close(); });
+    thumbs.forEach((t, i) =>
+      t.addEventListener("click", () => {
+        show(i);
+        box.showModal();
+      }),
+    );
+    box
+      .querySelector(".lightbox__prev")
+      .addEventListener("click", () => show(index - 1));
+    box
+      .querySelector(".lightbox__next")
+      .addEventListener("click", () => show(index + 1));
+    box
+      .querySelector(".lightbox__close")
+      .addEventListener("click", () => box.close());
+    box.addEventListener("click", (e) => {
+      if (e.target === box) box.close();
+    });
     box.addEventListener("keydown", (e) => {
       if (e.key === "ArrowLeft") show(index - 1);
       if (e.key === "ArrowRight") show(index + 1);
@@ -64,5 +86,7 @@
   }
 
   // Footer year
-  document.querySelectorAll("[data-year]").forEach((el) => { el.textContent = new Date().getFullYear(); });
+  document.querySelectorAll("[data-year]").forEach((el) => {
+    el.textContent = new Date().getFullYear();
+  });
 })();
